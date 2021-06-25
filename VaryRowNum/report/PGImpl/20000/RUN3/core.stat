@@ -1,8 +1,8 @@
-Total test time (ms): 403044
+Total test time (ms): 108607
 Number of cells to update: 20001
 Number of cells updated: 0
-Total time to update cells (ms): 215417
-Total time after the update (ms): 12
-Total time of getting dependents (ms): 153837
-Area under curve: 8.61716E9
+Total time to update cells (ms): 71354
+Total time after the update (ms): 11
+Total time of getting dependents (ms): 838
+Area under curve: 2.8546E9
 
