@@ -1,0 +1,24 @@
+Report:
+
+Correct: true
+Touched time: 1624586597210
+Test start time: 1624586524733
+Test end time: 1624586597804
+Total test time (ms): 73071
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1624586555437
+Update cell end time: 1624586597196
+Total time to update cells (ms): 41759
+Total time after the update (ms): 14
+Total time of getting dependents (ms): 725
+Area under curve: 8.3546E8
+Curve: 
+0, 20000
+41773, 20000
+41773, 0
