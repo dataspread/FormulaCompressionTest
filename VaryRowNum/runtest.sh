@@ -15,8 +15,10 @@ CLASSPATH=$DATASPREAD_HOME/testcode/target/classes:$MAVEN_HOME/repository/org/ap
 
 #declare -a depTableClassString=("PGImpl" "Comp")
 declare -a depTableClassString=("PGImpl")
-declare -a rows=("5000" "10000" "15000" "20000")
-declare -a runs=("1" "2" "3")
+#declare -a rows=("5000" "10000" "15000" "20000")
+declare -a rows=("5000" "10000")
+#declare -a runs=("1" "2" "3")
+declare -a runs=("1")
 
 for run in "${runs[@]}"
 do
