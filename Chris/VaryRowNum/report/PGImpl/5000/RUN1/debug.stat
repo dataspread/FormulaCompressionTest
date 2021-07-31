@@ -1,0 +1,25 @@
+Report:
+
+TestCase: TestRunningTotalSlow5000
+Correct: true
+Touched time: 1624589351654
+Test start time: 1624589315621
+Test end time: 1624589352138
+Total test time (ms): 36517
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 5001
+Number of cells updated: 0
+Update cell start time: 1624589334687
+Update cell end time: 1624589351650
+Total time to update cells (ms): 16963
+Total time after the update (ms): 4
+Total time of getting dependents (ms): 10103
+Area under curve: 1.6967E8
+Curve: 
+0, 10000
+16967, 10000
+16967, 0

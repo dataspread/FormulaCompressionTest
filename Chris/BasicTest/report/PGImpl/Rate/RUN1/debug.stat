@@ -1,0 +1,25 @@
+Report:
+
+TestCase: TestRate300000
+Correct: true
+Touched time: 1624869680830
+Test start time: 1624868397088
+Test end time: 1624869684121
+Total test time (ms): 1287033
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 300001
+Number of cells updated: 0
+Update cell start time: 1624869671675
+Update cell end time: 1624869680443
+Total time to update cells (ms): 8768
+Total time after the update (ms): 387
+Total time of getting dependents (ms): 4882
+Area under curve: 5.493009155E9
+Curve: 
+0, 600001
+9155, 600001
+9155, 0
