@@ -9,8 +9,8 @@ JAVA_CONFIG=-Xss4m
 MAVEN_HOME=/Users/cdian/.m2
 DATASPREAD_HOME=C:/Users/cdian/Desktop/Research/dataspread-web
 
-TEST_HOME=C:/Users/cdian/Desktop/Research/FormulaCompressionTest/Chris/rq1
-REPORT_HOME=$TEST_HOME/report/sync
+TEST_HOME=C:/Users/cdian/Desktop/Research/FormulaCompressionTest/Chris
+REPORT_HOME=$TEST_HOME/reports/rq1/async
 COMMON_CONFIG=$TEST_HOME/commonConfig.properties
 TEST_MAIN=FormulaCompressionTest.CompressionTestMain
 
@@ -40,7 +40,7 @@ do
 				-DdbDriver=org.postgresql.Driver \
 				-Dusername=admin \
 				-Dpassword=password \
-				-DuseSyncRunner=true \
+				-DuseSyncRunner=false \
 				-DdepTableCacheSize=0 \
 				-DdepTableClassString=${depTableClassString[$i]} \
 				-DspreadsheetString=${spreadsheetString[$j]} \
