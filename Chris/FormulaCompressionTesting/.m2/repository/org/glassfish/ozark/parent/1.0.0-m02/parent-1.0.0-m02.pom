@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.glassfish.ozark</groupId>
+    <artifactId>parent</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0-m02</version>
+    <name>Ozark ${project.version} Parent Project</name>
+    <parent>
+        <groupId>net.java</groupId>
+        <artifactId>jvnet-parent</artifactId>
+        <version>5</version>
+    </parent>
+    <modules>
+        <module>ozark</module>
+        <module>ext</module>
+        <module>test</module>
+    </modules>
+    <properties>
+        <jersey.version>2.21.1</jersey.version>
+    </properties>
+    <reporting>
+        <excludeDefaults>true</excludeDefaults>
+    </reporting>    
+    <scm>
+        <connection>scm:git:git://java.net/ozark~sources</connection>
+        <developerConnection>scm:git:ssh://mriem@git.java.net/ozark~sources</developerConnection>
+      <tag>parent-1.0.0-m02</tag>
+  </scm>
+</project>
