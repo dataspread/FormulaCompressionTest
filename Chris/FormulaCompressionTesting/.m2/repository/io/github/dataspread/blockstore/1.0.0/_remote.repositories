@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 22 14:11:58 PDT 2021
+blockstore-1.0.0.jar>=
+blockstore-1.0.0.pom>=
