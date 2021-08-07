@@ -1,0 +1,29 @@
+Report:
+
+TestCase: TestRunningTotalSlow20000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: Async
+cacheSize: 0
+testArg1: 20000
+Touched time: 1628273634534
+Test start time: 1628272024431
+Test end time: 1628273634622
+Total test time (ms): 1610191
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20001
+Number of cells updated: 0
+Update cell start time: 1628273569181
+Update cell end time: 1628273634521
+Total time to update cells (ms): 65340
+Total time after the update (ms): 13
+Total time of getting dependents (ms): 0
+Area under curve: 2.61412E9
+Curve: 
+0, 40000
+65353, 40000
+65353, 0
