@@ -1400,3 +1400,1041 @@ Wed Jul  7 16:20:14 PDT 2021: Finished testing RunningTotalFast for Comp
 
 Wed Jul  7 16:20:14 PDT 2021: Finished testing Rate for Comp
 
+Mon Jul 19 16:29:02 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 19 16:29:02 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 19 16:29:02 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 19 16:29:02 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 19 16:29:02 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 19 16:29:02 PDT 2021: Finished testing Rate for Comp
+
+Mon Jul 19 16:29:03 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 19 16:29:03 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 19 16:29:03 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 19 16:29:03 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 19 16:29:03 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 19 16:29:04 PDT 2021: Finished testing Rate for Comp
+
+Mon Jul 19 16:29:04 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 19 16:29:04 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 19 16:29:04 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 19 16:29:04 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 19 16:29:04 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 19 16:29:05 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:37:07 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:37:07 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:37:08 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:37:08 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:37:08 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:37:08 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:37:08 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:37:09 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:37:09 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:37:09 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:37:09 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:37:09 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:37:10 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:37:10 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:37:10 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:37:10 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:37:10 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:37:10 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:42:42 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:42:42 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:42:42 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:42:42 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:42:42 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:42:43 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:42:43 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:42:43 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:42:43 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:42:43 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:42:44 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:42:44 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:42:44 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:42:44 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:42:44 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:42:44 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:42:45 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:42:45 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:43:41 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:43:42 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:43:42 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:43:42 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:43:42 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:43:42 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:43:43 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:43:43 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:43:43 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:43:43 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:43:43 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:43:43 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:43:44 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:43:44 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:43:44 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:43:44 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:43:44 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:43:45 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:48:00 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:48:00 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:48:00 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:48:01 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:48:01 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:48:01 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:48:01 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:48:01 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:48:02 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:48:02 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:48:02 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:48:02 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:48:02 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:48:02 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:48:03 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:48:03 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:48:03 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:48:03 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:49:27 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:49:27 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:49:27 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:49:28 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:49:28 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:49:28 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:49:28 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:49:28 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:49:28 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:49:29 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:49:29 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:49:29 PDT 2021: Finished testing Rate for Comp
+
+Wed Jul 21 23:49:29 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Wed Jul 21 23:49:29 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Wed Jul 21 23:49:29 PDT 2021: Finished testing Rate for PGImpl
+
+Wed Jul 21 23:49:30 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Wed Jul 21 23:49:30 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Wed Jul 21 23:49:30 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:18:21 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:18:22 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:18:22 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:18:22 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:18:22 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:18:22 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:18:23 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:18:23 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:18:23 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:18:23 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:18:23 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:18:23 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:18:24 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:18:24 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:18:24 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:18:24 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:18:24 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:18:25 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:31:37 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:31:38 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:31:38 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:31:38 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:31:38 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:31:38 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:31:39 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:31:39 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:31:39 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:31:39 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:31:39 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:31:39 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:31:40 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:31:40 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:31:40 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:31:40 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:31:40 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:31:41 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:31:44 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:31:44 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:31:45 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:31:45 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:31:45 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:31:45 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:31:45 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:31:46 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:31:46 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:31:46 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:31:46 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:31:46 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:31:47 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:31:47 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:31:47 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:31:47 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:31:47 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:31:47 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:35:12 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:35:12 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:35:13 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:35:13 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:35:13 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:35:13 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:35:13 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:35:14 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:35:14 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:35:14 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:35:14 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:35:14 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:35:14 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:35:15 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:35:15 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:35:15 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:35:15 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:35:15 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:36:45 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:36:45 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:36:45 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:36:45 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:36:45 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:36:46 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:36:46 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:36:46 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:36:46 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:36:46 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:36:46 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:36:47 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:36:47 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:36:47 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:36:47 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:36:47 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:36:48 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:36:48 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:11 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:11 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:12 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:12 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:12 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:12 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:12 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:13 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:13 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:13 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:13 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:13 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:14 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:14 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:14 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:14 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:14 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:14 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:29 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:29 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:30 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:30 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:30 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:30 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:30 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:31 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:31 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:31 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:31 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:31 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:32 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:32 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:32 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:32 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:32 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:32 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:48 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:48 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:48 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:48 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:48 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:49 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:49 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:49 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:49 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:49 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:50 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:50 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:45:50 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:45:50 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:45:50 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:45:50 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:45:51 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:45:51 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:48:14 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:48:14 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:48:14 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:48:15 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:48:15 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:48:15 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:48:15 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:48:15 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:48:16 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:48:16 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:48:16 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:48:16 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:48:16 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:48:16 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:48:17 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:48:17 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:48:17 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:48:17 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:48:46 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:48:46 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:48:46 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:48:46 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:48:47 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:48:47 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:48:47 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:48:47 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:48:47 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:48:48 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:48:48 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:48:48 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:48:48 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:48:48 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:48:48 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:48:49 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:48:49 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:48:49 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:56:11 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:56:11 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:56:11 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:56:12 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:56:12 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:56:12 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:56:12 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:56:12 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:56:12 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:56:13 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:56:13 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:56:13 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:56:13 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:56:13 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:56:14 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:56:14 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:56:14 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:56:14 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:57:08 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:57:08 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:57:08 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:57:08 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:57:08 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:57:09 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:57:09 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:57:09 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:57:09 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:57:09 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:57:10 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:57:10 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:57:10 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:57:10 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:57:10 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:57:10 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:57:11 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:57:11 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:58:55 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:58:56 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:58:56 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:58:56 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:58:56 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:58:56 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:58:57 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:58:57 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:58:57 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:58:57 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:58:57 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:58:57 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:58:58 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:58:58 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:58:58 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:58:58 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:58:58 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:58:59 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:59:11 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:59:12 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:59:12 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:59:12 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:59:12 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:59:12 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:59:13 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:59:13 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:59:13 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:59:13 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:59:13 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:59:14 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:59:14 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:59:14 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:59:14 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:59:14 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:59:15 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:59:15 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:59:21 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:59:21 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:59:21 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:59:21 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:59:22 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:59:22 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:59:22 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:59:22 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:59:22 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:59:23 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:59:23 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:59:23 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 00:59:23 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 00:59:23 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 00:59:23 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 00:59:24 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 00:59:24 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 00:59:24 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:01:58 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:01:58 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:01:58 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:01:58 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:01:58 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:01:59 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:01:59 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:01:59 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:01:59 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:01:59 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:02:00 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:02:00 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:02:00 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:02:00 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:02:00 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:02:01 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:02:01 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:02:01 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:19:07 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:19:07 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:19:08 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:19:08 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:19:08 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:19:09 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:19:09 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:19:09 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:19:09 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:19:10 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:19:10 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:19:10 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:19:10 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:19:11 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:19:11 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:19:11 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:19:11 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:19:12 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:19:28 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:19:28 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:19:29 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:19:29 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:19:29 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:19:29 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:19:30 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:19:30 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:19:30 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:19:30 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:19:31 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:19:31 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:19:31 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:19:31 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:19:32 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:19:32 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:19:32 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:19:33 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:20:01 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:20:06 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:20:10 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:20:15 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:20:19 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:20:21 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:20:25 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:20:26 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:20:27 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:20:31 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:20:36 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:20:40 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:20:44 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:20:49 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:20:53 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:20:58 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:21:02 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:21:07 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:22:26 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:22:30 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:22:35 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:22:39 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:22:44 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:22:48 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:22:53 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:22:57 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:23:02 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:23:06 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:23:11 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:23:15 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:23:19 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:23:24 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:23:28 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:23:33 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:23:36 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:26:02 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:44:03 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Thu Jul 22 01:44:09 PDT 2021: Finished testing Rate for PGImpl
+
+Thu Jul 22 01:44:13 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Thu Jul 22 01:44:14 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Thu Jul 22 01:44:14 PDT 2021: Finished testing Rate for Comp
+
+Thu Jul 22 01:44:16 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Thu Jul 22 01:44:16 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Fri Jul 23 21:21:21 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Fri Jul 23 21:21:22 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Sat Jul 24 23:27:44 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Sat Jul 24 23:31:57 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Sat Jul 24 23:31:58 PDT 2021: Finished testing Rate for PGImpl
+
+Sat Jul 24 23:32:00 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 26 03:00:38 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 26 04:01:32 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 26 04:01:32 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 26 04:01:35 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 26 04:01:35 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 26 04:01:35 PDT 2021: Finished testing Rate for Comp
+
+Mon Jul 26 04:01:41 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 26 04:01:43 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 26 04:01:46 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 26 04:01:47 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 26 04:01:47 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 26 04:01:48 PDT 2021: Finished testing Rate for Comp
+
+Mon Jul 26 04:01:48 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 26 04:01:49 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 26 04:01:50 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 26 04:02:03 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 26 04:02:10 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 26 04:02:13 PDT 2021: Finished testing Rate for Comp
+
+Mon Jul 26 04:09:38 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 26 04:18:02 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 26 15:43:21 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 26 15:43:23 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 26 15:43:50 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 26 15:43:51 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 26 15:43:52 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 26 15:43:54 PDT 2021: Finished testing Rate for Comp
+
+Mon Jul 26 15:43:55 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 26 15:43:57 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 26 15:44:24 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 26 15:44:25 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 26 15:44:26 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 26 15:44:29 PDT 2021: Finished testing Rate for Comp
+
+Mon Jul 26 15:44:30 PDT 2021: Finished testing RunningTotalSlow for PGImpl
+
+Mon Jul 26 15:44:31 PDT 2021: Finished testing RunningTotalFast for PGImpl
+
+Mon Jul 26 15:44:58 PDT 2021: Finished testing Rate for PGImpl
+
+Mon Jul 26 15:44:59 PDT 2021: Finished testing RunningTotalSlow for Comp
+
+Mon Jul 26 15:45:01 PDT 2021: Finished testing RunningTotalFast for Comp
+
+Mon Jul 26 15:45:03 PDT 2021: Finished testing Rate for Comp
+
