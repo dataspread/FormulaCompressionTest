@@ -1,0 +1,10 @@
+Total test time (ms): 339775
+Number of cells to update: 100001
+Number of cells updated: 0
+Total time to update cells (ms): 1673
+Total time after the update (ms): 191
+Total time of getting dependents (ms): 4
+Total time of adding the batch (ms): 1011
+Total time of refreshing the cache (ms): 0
+Area under curve: 3.72801864E8
+
