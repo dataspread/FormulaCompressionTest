@@ -1,0 +1,29 @@
+Report:
+
+TestCase: TestRate5000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 5000
+Touched time: 1628831840117
+Test start time: 1628831814365
+Test end time: 1628831840174
+Total test time (ms): 25809
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 5001
+Number of cells updated: 0
+Update cell start time: 1628831839438
+Update cell end time: 1628831840106
+Total time to update cells (ms): 668
+Total time after the update (ms): 11
+Total time of getting dependents (ms): 151
+Area under curve: 6790679.0
+Curve: 
+0, 10001
+679, 10001
+679, 0
