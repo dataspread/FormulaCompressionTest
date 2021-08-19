@@ -1,0 +1,5 @@
+,Execution Type,Mean Percent (%),Mean Time (s),Max Percent (%),Max Time (s)
+0,NoShare-Nonuniform,10.96,0.76,117.32,10.86
+1,NoShare-Uniform,37.24,1.37,854.69,30.48
+2,Share-Uniform,35.65,1.42,895.19,31.92
+3,iShare (w/ unshare),3.29,0.08,105.9,3.53

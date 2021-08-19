@@ -1,0 +1,51 @@
+max_pace,execution_type,time
+10,NoShare-Uniform,0.262
+20,NoShare-Uniform,0.448
+30,NoShare-Uniform,0.879
+40,NoShare-Uniform,1.202
+50,NoShare-Uniform,1.682
+60,NoShare-Uniform,2.133
+70,NoShare-Uniform,2.815
+80,NoShare-Uniform,3.647
+90,NoShare-Uniform,4.164
+100,NoShare-Uniform,5.181
+10,NoShare-Nonuniform,0.372
+20,NoShare-Nonuniform,1.213
+30,NoShare-Nonuniform,2.453
+40,NoShare-Nonuniform,3.682
+50,NoShare-Nonuniform,6.151
+60,NoShare-Nonuniform,7.757
+70,NoShare-Nonuniform,9.767
+80,NoShare-Nonuniform,13.055
+90,NoShare-Nonuniform,16.574
+100,NoShare-Nonuniform,20.545
+10,Share-Uniform,0.063
+20,Share-Uniform,0.258
+30,Share-Uniform,0.548
+40,Share-Uniform,0.782
+50,Share-Uniform,1.38
+60,Share-Uniform,1.74
+70,Share-Uniform,2.503
+80,Share-Uniform,3.178
+90,Share-Uniform,3.642
+100,Share-Uniform,4.652
+10,iShare (w/ cache),1.247
+20,iShare (w/ cache),3.179
+30,iShare (w/ cache),5.15
+40,iShare (w/ cache),7.545
+50,iShare (w/ cache),10.187
+60,iShare (w/ cache),11.959
+70,iShare (w/ cache),14.924
+80,iShare (w/ cache),18.616
+90,iShare (w/ cache),21.809
+100,iShare (w/ cache),25.626
+10,iShare (w/o cache),58.167
+20,iShare (w/o cache),245.068
+30,iShare (w/o cache),591.808
+40,iShare (w/o cache),1093.165
+50,iShare (w/o cache),1651.62
+60,iShare (w/o cache),1800.0
+70,iShare (w/o cache),1800.0
+80,iShare (w/o cache),1800.0
+90,iShare (w/o cache),1800.0
+100,iShare (w/o cache),1800.0

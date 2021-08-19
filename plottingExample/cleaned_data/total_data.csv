@@ -1,0 +1,316 @@
+timestamp,execution_type,time,order,goal,query_set,constraint_type,q15
+08-30-23:25:45,NoShare-Uniform,695.076,0,0.0,Ten TPC-H Queries,nonUniform,True
+09-13-18:53:56,NoShare-Uniform,438.305,0,4.0,Ten TPC-H Queries,uniform,True
+09-01-04:18:56,NoShare-Uniform,953.866,0,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-19:32:58,NoShare-Uniform,447.239,0,1.0,Ten TPC-H Queries,uniform,True
+09-01-17:31:40,NoShare-Uniform,484.861,0,0.5,Ten TPC-H Queries,uniform,True
+09-01-15:11:22,NoShare-Uniform,603.539,0,0.2,Ten TPC-H Queries,uniform,True
+09-01-12:02:50,NoShare-Uniform,776.21,0,0.1,Ten TPC-H Queries,uniform,True
+09-13-18:13:19,NoShare-Uniform,433.983,0,2.0,Ten TPC-H Queries,uniform,True
+09-13-19:14:19,NoShare-Uniform,432.498,0,4.0,Ten TPC-H Queries,uniform,True
+09-01-08:18:53,NoShare-Uniform,880.394,0,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-20:03:11,NoShare-Uniform,667.294,0,1.0,All TPC-H Queries,uniform,True
+08-30-16:16:43,NoShare-Uniform,726.421,0,0.5,All TPC-H Queries,uniform,True
+08-30-11:34:53,NoShare-Uniform,858.88,0,0.2,All TPC-H Queries,uniform,True
+09-13-17:52:51,NoShare-Uniform,433.801,0,2.0,Ten TPC-H Queries,uniform,True
+09-01-10:47:33,NoShare-Uniform,771.864,0,0.1,Ten TPC-H Queries,uniform,True
+09-01-18:13:30,NoShare-Uniform,429.325,0,1.0,Ten TPC-H Queries,uniform,True
+09-01-16:05:53,NoShare-Uniform,479.214,0,0.5,Ten TPC-H Queries,uniform,True
+09-01-13:15:29,NoShare-Uniform,596.987,0,0.2,Ten TPC-H Queries,uniform,True
+09-01-09:31:54,NoShare-Uniform,761.459,0,0.1,Ten TPC-H Queries,uniform,True
+09-13-17:32:34,NoShare-Uniform,447.056,0,2.0,Ten TPC-H Queries,uniform,True
+09-13-18:33:28,NoShare-Uniform,424.051,0,4.0,Ten TPC-H Queries,uniform,True
+08-31-23:09:51,NoShare-Uniform,1110.569,0,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-18:53:15,NoShare-Uniform,435.742,0,1.0,Ten TPC-H Queries,uniform,True
+09-01-16:48:36,NoShare-Uniform,474.185,0,0.5,Ten TPC-H Queries,uniform,True
+09-01-14:13:54,NoShare-Uniform,625.444,0,0.2,Ten TPC-H Queries,uniform,True
+09-13-16:24:32,NoShare-Uniform,865.761,0,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-29-23:43:38,NoShare-Uniform,1050.669,0,0.1,All TPC-H Queries,uniform,True
+09-13-11:38:39,NoShare-Uniform,644.101,0,2.0,All TPC-H Queries,uniform,True
+09-13-13:14:56,NoShare-Uniform,650.064,0,4.0,All TPC-H Queries,uniform,True
+09-01-05:49:57,NoShare-Uniform,889.131,0,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-21:02:01,NoShare-Uniform,1121.378,0,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-01:13:06,NoShare-Uniform,956.408,0,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-09:35:50,NoShare-Uniform,1057.16,0,0.1,All TPC-H Queries,uniform,True
+08-31-09:38:13,NoShare-Uniform,1334.416,0,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-13:50:15,NoShare-Uniform,862.702,0,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-15:45:52,NoShare-Uniform,863.684,0,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-07:04:15,NoShare-Uniform,864.022,0,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-18:54:38,NoShare-Uniform,1114.769,0,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-14:44:44,NoShare-Uniform,858.764,0,0.2,All TPC-H Queries,uniform,True
+09-13-10:34:50,NoShare-Uniform,654.249,0,2.0,All TPC-H Queries,uniform,True
+09-13-12:10:40,NoShare-Uniform,649.152,0,4.0,All TPC-H Queries,uniform,True
+08-30-21:11:14,NoShare-Uniform,662.824,0,1.0,All TPC-H Queries,uniform,True
+09-13-14:28:43,NoShare-Uniform,875.063,0,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-17:31:51,NoShare-Uniform,721.971,0,0.5,All TPC-H Queries,uniform,True
+08-30-13:09:47,NoShare-Uniform,852.523,0,0.2,All TPC-H Queries,uniform,True
+08-30-07:32:07,NoShare-Uniform,1060.378,0,0.1,All TPC-H Queries,uniform,True
+09-13-11:06:42,NoShare-Uniform,651.016,0,2.0,All TPC-H Queries,uniform,True
+09-13-12:42:52,NoShare-Uniform,654.936,0,4.0,All TPC-H Queries,uniform,True
+08-30-22:18:46,NoShare-Uniform,661.683,0,1.0,All TPC-H Queries,uniform,True
+08-31-12:44:55,NoShare-Uniform,1326.953,0,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-18:47:28,NoShare-Uniform,723.502,0,0.5,All TPC-H Queries,uniform,True
+08-31-15:51:43,NoShare-Uniform,1317.711,0,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-02:45:55,NoShare-Uniform,951.517,0,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-29-18:10:10,NoShare-Uniform,990.582,0,0.0,All TPC-H Queries,nonUniform,True
+08-31-00:19:39,NoShare-Uniform,534.488,0,1.0,Ten TPC-H Queries,nonUniform,True
+08-31-02:31:01,NoShare-Uniform,1002.635,0,0.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+08-31-06:47:52,NoShare-Uniform,1002.381,0,2.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+08-31-04:37:33,NoShare-Uniform,968.786,0,1.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+08-29-21:44:24,NoShare-Uniform,992.193,0,2.0,All TPC-H Queries,nonUniform,True
+08-31-01:20:21,NoShare-Uniform,489.081,0,2.0,Ten TPC-H Queries,nonUniform,True
+09-13-17:02:54,NoShare-Uniform,860.608,0,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-15:07:15,NoShare-Uniform,866.391,0,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-29-19:57:28,NoShare-Uniform,978.565,0,1.0,All TPC-H Queries,nonUniform,True
+09-08-21:59:20,NoShare-Nonuniform,1067.2035679464204,1,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-12:59:33,NoShare-Nonuniform,658.3463921321342,1,4.0,All TPC-H Queries,uniform,True
+09-09-03:43:32,NoShare-Nonuniform,455.5815774379303,1,0.5,Ten TPC-H Queries,uniform,True
+09-08-18:00:01,NoShare-Nonuniform,654.2483921321342,1,1.0,All TPC-H Queries,uniform,True
+09-09-02:14:07,NoShare-Nonuniform,526.1205679464206,1,0.1,Ten TPC-H Queries,uniform,True
+09-08-18:39:02,NoShare-Nonuniform,479.68357743793035,1,2.0,Ten TPC-H Queries,nonUniform,True
+09-09-04:16:03,NoShare-Nonuniform,424.4143921321341,1,1.0,Ten TPC-H Queries,uniform,True
+09-13-18:03:40,NoShare-Nonuniform,434.70439213213405,1,2.0,Ten TPC-H Queries,uniform,True
+09-08-16:14:58,NoShare-Nonuniform,716.0044753193173,1,0.2,All TPC-H Queries,uniform,True
+09-08-19:29:55,NoShare-Nonuniform,989.3415774379305,1,0.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-13-11:23:21,NoShare-Nonuniform,657.6253921321342,1,2.0,All TPC-H Queries,uniform,True
+09-08-17:09:37,NoShare-Nonuniform,700.4975774379304,1,0.5,All TPC-H Queries,uniform,True
+09-09-00:44:12,NoShare-Nonuniform,920.5985774379305,1,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-19:04:43,NoShare-Nonuniform,434.68239213213405,1,4.0,Ten TPC-H Queries,uniform,True
+09-08-17:43:17,NoShare-Nonuniform,654.9503921321342,1,1.0,All TPC-H Queries,uniform,True
+09-13-15:27:12,NoShare-Nonuniform,872.2013921321344,1,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-14:48:34,NoShare-Nonuniform,866.7223921321344,1,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-08-16:33:20,NoShare-Nonuniform,704.5455774379305,1,0.5,All TPC-H Queries,uniform,True
+09-08-17:26:28,NoShare-Nonuniform,656.9913921321341,1,1.0,All TPC-H Queries,uniform,True
+09-13-10:51:18,NoShare-Nonuniform,646.9883921321342,1,2.0,All TPC-H Queries,uniform,True
+09-13-16:44:18,NoShare-Nonuniform,858.3173921321344,1,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-08-15:34:37,NoShare-Nonuniform,722.7004753193173,1,0.2,All TPC-H Queries,uniform,True
+09-08-14:27:26,NoShare-Nonuniform,807.9785679464206,1,0.1,All TPC-H Queries,uniform,True
+09-13-12:27:24,NoShare-Nonuniform,660.8013921321342,1,4.0,All TPC-H Queries,uniform,True
+09-09-03:08:22,NoShare-Nonuniform,474.9884753193173,1,0.2,Ten TPC-H Queries,uniform,True
+09-08-16:51:19,NoShare-Nonuniform,677.9745774379304,1,0.5,All TPC-H Queries,uniform,True
+09-13-19:25:03,NoShare-Nonuniform,433.44039213213404,1,4.0,Ten TPC-H Queries,uniform,True
+09-08-14:50:58,NoShare-Nonuniform,798.9375679464206,1,0.1,All TPC-H Queries,uniform,True
+09-08-15:14:30,NoShare-Nonuniform,806.3305679464206,1,0.1,All TPC-H Queries,uniform,True
+09-09-02:29:04,NoShare-Nonuniform,520.5485679464207,1,0.1,Ten TPC-H Queries,uniform,True
+09-08-15:54:55,NoShare-Nonuniform,737.1394753193173,1,0.2,All TPC-H Queries,uniform,True
+09-09-01:44:08,NoShare-Nonuniform,857.4693921321344,1,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-18:23:58,NoShare-Nonuniform,428.19239213213405,1,2.0,Ten TPC-H Queries,uniform,True
+09-08-13:23:58,NoShare-Nonuniform,751.8255679464206,1,2.0,All TPC-H Queries,nonUniform,True
+09-08-12:42:31,NoShare-Nonuniform,736.2935679464206,1,0.0,All TPC-H Queries,nonUniform,True
+09-13-18:44:12,NoShare-Nonuniform,435.3973921321341,1,4.0,Ten TPC-H Queries,uniform,True
+09-13-17:22:43,NoShare-Nonuniform,861.4053921321345,1,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-17:43:14,NoShare-Nonuniform,429.59039213213407,1,2.0,Ten TPC-H Queries,uniform,True
+09-08-22:51:13,NoShare-Nonuniform,977.6834753193172,1,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-08-23:39:20,NoShare-Nonuniform,979.4444753193172,1,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-09-01:59:04,NoShare-Nonuniform,520.0085679464206,1,0.1,Ten TPC-H Queries,uniform,True
+09-08-22:26:57,NoShare-Nonuniform,1069.1915679464205,1,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-08-21:31:44,NoShare-Nonuniform,1060.6665679464206,1,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-14:09:50,NoShare-Nonuniform,850.4173921321344,1,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-09-00:22:30,NoShare-Nonuniform,916.4015774379305,1,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-13-16:05:51,NoShare-Nonuniform,869.3883921321344,1,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-09-03:20:05,NoShare-Nonuniform,455.49857743793035,1,0.5,Ten TPC-H Queries,uniform,True
+09-08-20:16:43,NoShare-Nonuniform,977.5695417931793,1,2.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-08-18:12:10,NoShare-Nonuniform,462.30441828537545,1,0.0,Ten TPC-H Queries,nonUniform,True
+09-09-01:24:14,NoShare-Nonuniform,870.8643921321344,1,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-09-03:54:28,NoShare-Nonuniform,436.42239213213406,1,1.0,Ten TPC-H Queries,uniform,True
+09-09-02:42:18,NoShare-Nonuniform,485.3034753193173,1,0.2,Ten TPC-H Queries,uniform,True
+09-09-00:00:51,NoShare-Nonuniform,903.9035774379305,1,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-08-13:03:04,NoShare-Nonuniform,750.0025679464206,1,1.0,All TPC-H Queries,nonUniform,True
+09-13-11:55:17,NoShare-Nonuniform,654.7333921321342,1,2.0,All TPC-H Queries,uniform,True
+09-09-01:04:09,NoShare-Nonuniform,858.3473921321344,1,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-08-18:26:15,NoShare-Nonuniform,510.2115417931792,1,1.0,Ten TPC-H Queries,nonUniform,True
+09-09-03:31:50,NoShare-Nonuniform,457.82557743793035,1,0.5,Ten TPC-H Queries,uniform,True
+09-09-04:05:21,NoShare-Nonuniform,432.94139213213407,1,1.0,Ten TPC-H Queries,uniform,True
+09-13-13:31:35,NoShare-Nonuniform,658.5193921321342,1,4.0,All TPC-H Queries,uniform,True
+09-09-02:55:20,NoShare-Nonuniform,473.87347531931727,1,0.2,Ten TPC-H Queries,uniform,True
+09-08-19:52:39,NoShare-Nonuniform,940.5725512846892,1,1.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-08-23:15:11,NoShare-Nonuniform,967.6804753193172,1,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-00:08:26,Share-Uniform,525.75,2,4.0,All TPC-H Queries,uniform,True
+09-11-00:58:51,Share-Uniform,555.332,2,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-29-18:55:23,Share-Uniform,1691.808,2,0.0,All TPC-H Queries,nonUniform,True
+08-30-21:30:48,Share-Uniform,686.651,2,1.0,All TPC-H Queries,uniform,True
+08-30-23:44:03,Share-Uniform,682.664,2,0.0,Ten TPC-H Queries,nonUniform,True
+08-30-22:38:24,Share-Uniform,691.616,2,1.0,All TPC-H Queries,uniform,True
+09-10-22:33:19,Share-Uniform,512.3,2,4.0,All TPC-H Queries,uniform,True
+08-30-15:20:55,Share-Uniform,1348.192,2,0.2,All TPC-H Queries,uniform,True
+09-11-03:33:18,Share-Uniform,512.537,2,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-01:50:23,Share-Uniform,536.716,2,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-10-20:09:38,Share-Uniform,538.276,2,2.0,All TPC-H Queries,uniform,True
+08-31-22:01:02,Share-Uniform,2068.588,2,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-00:37:24,Share-Uniform,1978.152,2,0.1,All TPC-H Queries,uniform,True
+09-01-07:24:18,Share-Uniform,577.807,2,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-10-21:45:52,Share-Uniform,534.924,2,2.0,All TPC-H Queries,uniform,True
+09-01-03:20:09,Share-Uniform,1210.403,2,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-17:55:32,Share-Uniform,851.859,2,0.5,All TPC-H Queries,uniform,True
+08-31-01:44:21,Share-Uniform,960.334,2,2.0,Ten TPC-H Queries,nonUniform,True
+09-10-23:20:52,Share-Uniform,512.864,2,4.0,All TPC-H Queries,uniform,True
+09-01-01:46:53,Share-Uniform,1185.578,2,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-10-20:57:53,Share-Uniform,534.853,2,2.0,All TPC-H Queries,uniform,True
+09-11-02:43:09,Share-Uniform,521.867,2,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-05:13:58,Share-Uniform,516.161,2,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-14:16:20,Share-Uniform,3142.254,2,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-08:25:39,Share-Uniform,1975.207,2,0.1,All TPC-H Queries,uniform,True
+08-31-00:43:19,Share-Uniform,944.893,2,1.0,Ten TPC-H Queries,nonUniform,True
+08-31-19:53:26,Share-Uniform,2060.325,2,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-13:45:49,Share-Uniform,1348.951,2,0.2,All TPC-H Queries,uniform,True
+09-01-06:10:04,Share-Uniform,577.197,2,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-11:09:27,Share-Uniform,3154.493,2,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-19:12:13,Share-Uniform,916.543,2,0.5,All TPC-H Queries,uniform,True
+08-30-10:29:41,Share-Uniform,1975.772,2,0.1,All TPC-H Queries,uniform,True
+09-01-12:34:49,Share-Uniform,1377.849,2,0.1,Ten TPC-H Queries,uniform,True
+09-01-00:09:45,Share-Uniform,2120.119,2,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-08:19:16,Share-Uniform,322.55,2,4.0,Ten TPC-H Queries,uniform,True
+09-01-10:03:19,Share-Uniform,1340.039,2,0.1,Ten TPC-H Queries,uniform,True
+09-01-19:43:06,Share-Uniform,355.822,2,1.0,Ten TPC-H Queries,uniform,True
+08-31-17:24:33,Share-Uniform,3190.76,2,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-06:54:27,Share-Uniform,332.678,2,2.0,Ten TPC-H Queries,uniform,True
+08-30-20:22:49,Share-Uniform,690.413,2,1.0,All TPC-H Queries,uniform,True
+08-29-22:37:23,Share-Uniform,1945.711,2,2.0,All TPC-H Queries,nonUniform,True
+09-01-04:53:15,Share-Uniform,1221.549,2,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-08:38:53,Share-Uniform,571.101,2,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-15:31:35,Share-Uniform,824.815,2,0.2,Ten TPC-H Queries,uniform,True
+09-11-07:22:49,Share-Uniform,320.511,2,4.0,Ten TPC-H Queries,uniform,True
+09-01-17:00:01,Share-Uniform,388.824,2,0.5,Ten TPC-H Queries,uniform,True
+08-31-05:41:07,Share-Uniform,2218.38,2,1.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-01-19:03:24,Share-Uniform,358.284,2,1.0,Ten TPC-H Queries,uniform,True
+09-11-05:57:17,Share-Uniform,340.183,2,2.0,Ten TPC-H Queries,uniform,True
+08-31-03:29:36,Share-Uniform,2056.393,2,0.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-11-07:50:58,Share-Uniform,316.328,2,4.0,Ten TPC-H Queries,uniform,True
+09-01-14:34:24,Share-Uniform,840.727,2,0.2,Ten TPC-H Queries,uniform,True
+08-30-12:10:50,Share-Uniform,1334.845,2,0.2,All TPC-H Queries,uniform,True
+08-29-20:41:05,Share-Uniform,1617.911,2,1.0,All TPC-H Queries,nonUniform,True
+08-31-08:20:48,Share-Uniform,3206.512,2,2.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-01-18:23:45,Share-Uniform,362.79,2,1.0,Ten TPC-H Queries,uniform,True
+09-01-11:18:41,Share-Uniform,1333.589,2,0.1,Ten TPC-H Queries,uniform,True
+09-11-04:23:36,Share-Uniform,514.713,2,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-16:17:03,Share-Uniform,376.877,2,0.5,Ten TPC-H Queries,uniform,True
+09-01-17:42:58,Share-Uniform,382.045,2,0.5,Ten TPC-H Queries,uniform,True
+08-30-16:40:19,Share-Uniform,852.907,2,0.5,All TPC-H Queries,uniform,True
+09-01-13:36:43,Share-Uniform,877.302,2,0.2,Ten TPC-H Queries,uniform,True
+09-11-06:26:00,Share-Uniform,333.915,2,2.0,Ten TPC-H Queries,uniform,True
+09-01-19:22:59,iShare (w/o unshare),331.042,3,1.0,Ten TPC-H Queries,uniform,True
+08-30-11:14:00,iShare (w/o unshare),648.865,3,0.1,All TPC-H Queries,uniform,True
+09-01-17:20:44,iShare (w/o unshare),345.957,3,0.5,Ten TPC-H Queries,uniform,True
+09-01-14:57:56,iShare (w/o unshare),372.762,3,0.2,Ten TPC-H Queries,uniform,True
+09-11-00:40:08,iShare (w/o unshare),518.055,3,4.0,All TPC-H Queries,uniform,True
+09-10-22:17:40,iShare (w/o unshare),516.72,3,2.0,All TPC-H Queries,uniform,True
+08-31-01:08:45,iShare (w/o unshare),403.455,3,1.0,Ten TPC-H Queries,nonUniform,True
+09-01-05:30:22,iShare (w/o unshare),539.071,3,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-07:59:28,iShare (w/o unshare),508.99,3,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-18:43:27,iShare (w/o unshare),322.58,3,1.0,Ten TPC-H Queries,uniform,True
+09-11-04:06:18,iShare (w/o unshare),491.617,3,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-16:37:50,iShare (w/o unshare),352.901,3,0.5,Ten TPC-H Queries,uniform,True
+09-11-01:31:43,iShare (w/o unshare),484.964,3,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-00:51:47,iShare (w/o unshare),590.268,3,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-12:14:29,iShare (w/o unshare),1446.386,3,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-14:00:04,iShare (w/o unshare),375.935,3,0.2,Ten TPC-H Queries,uniform,True
+08-31-00:06:51,iShare (w/o unshare),346.324,3,0.0,Ten TPC-H Queries,nonUniform,True
+09-01-03:57:37,iShare (w/o unshare),541.435,3,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-20:36:53,iShare (w/o unshare),597.166,3,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-10:30:16,iShare (w/o unshare),407.276,3,0.1,Ten TPC-H Queries,uniform,True
+09-11-06:16:08,iShare (w/o unshare),324.138,3,2.0,Ten TPC-H Queries,uniform,True
+09-01-02:24:39,iShare (w/o unshare),544.484,3,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-06:24:56,iShare (w/o unshare),583.992,3,1.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-11-07:41:37,iShare (w/o unshare),319.51,3,4.0,Ten TPC-H Queries,uniform,True
+09-01-06:45:04,iShare (w/o unshare),510.239,3,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-15:55:02,iShare (w/o unshare),367.278,3,0.2,Ten TPC-H Queries,uniform,True
+08-31-04:15:17,iShare (w/o unshare),617.233,3,0.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+08-31-15:21:24,iShare (w/o unshare),1433.809,3,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-14:23:59,iShare (w/o unshare),572.606,3,0.2,All TPC-H Queries,uniform,True
+09-01-13:02:07,iShare (w/o unshare),408.68,3,0.1,Ten TPC-H Queries,uniform,True
+08-30-18:29:56,iShare (w/o unshare),547.835,3,0.5,All TPC-H Queries,uniform,True
+09-11-07:13:24,iShare (w/o unshare),325.949,3,2.0,Ten TPC-H Queries,uniform,True
+09-11-08:38:04,iShare (w/o unshare),321.006,3,4.0,Ten TPC-H Queries,uniform,True
+08-29-19:34:46,iShare (w/o unshare),592.836,3,0.0,All TPC-H Queries,nonUniform,True
+08-30-22:02:56,iShare (w/o unshare),509.227,3,1.0,All TPC-H Queries,uniform,True
+08-30-20:55:24,iShare (w/o unshare),519.035,3,1.0,All TPC-H Queries,uniform,True
+08-30-12:49:05,iShare (w/o unshare),582.37,3,0.2,All TPC-H Queries,uniform,True
+08-30-07:01:34,iShare (w/o unshare),643.385,3,0.1,All TPC-H Queries,uniform,True
+09-11-02:24:38,iShare (w/o unshare),556.648,3,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-09:09:59,iShare (w/o unshare),635.497,3,0.1,All TPC-H Queries,uniform,True
+09-10-20:41:26,iShare (w/o unshare),519.801,3,2.0,All TPC-H Queries,uniform,True
+08-29-21:21:15,iShare (w/o unshare),638.07,3,1.0,All TPC-H Queries,nonUniform,True
+09-10-23:05:13,iShare (w/o unshare),523.34,3,4.0,All TPC-H Queries,uniform,True
+09-11-04:56:34,iShare (w/o unshare),493.068,3,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-17:14:22,iShare (w/o unshare),534.049,3,0.5,All TPC-H Queries,uniform,True
+08-31-09:07:33,iShare (w/o unshare),633.818,3,2.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-11-08:09:47,iShare (w/o unshare),320.182,3,4.0,Ten TPC-H Queries,uniform,True
+09-01-20:02:35,iShare (w/o unshare),321.257,3,1.0,Ten TPC-H Queries,uniform,True
+08-30-23:10:48,iShare (w/o unshare),515.227,3,1.0,All TPC-H Queries,uniform,True
+08-29-23:17:46,iShare (w/o unshare),599.296,3,2.0,All TPC-H Queries,nonUniform,True
+09-11-05:46:59,iShare (w/o unshare),485.749,3,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-18:29:36,iShare (w/o unshare),1425.369,3,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-06:44:40,iShare (w/o unshare),312.544,3,2.0,Ten TPC-H Queries,uniform,True
+08-31-02:08:12,iShare (w/o unshare),374.623,3,2.0,Ten TPC-H Queries,nonUniform,True
+09-01-11:45:31,iShare (w/o unshare),403.974,3,0.1,Ten TPC-H Queries,uniform,True
+09-01-09:14:24,iShare (w/o unshare),529.733,3,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-22:44:56,iShare (w/o unshare),664.324,3,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-18:03:47,iShare (w/o unshare),347.418,3,0.5,Ten TPC-H Queries,uniform,True
+09-10-21:29:28,iShare (w/o unshare),515.492,3,2.0,All TPC-H Queries,uniform,True
+09-11-03:16:00,iShare (w/o unshare),488.025,3,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-10-23:52:33,iShare (w/o unshare),506.973,3,4.0,All TPC-H Queries,uniform,True
+08-30-15:59:09,iShare (w/o unshare),583.931,3,0.2,All TPC-H Queries,uniform,True
+08-30-19:47:15,iShare (w/o unshare),540.136,3,0.5,All TPC-H Queries,uniform,True
+09-11-02:06:19,iShare (w/ unshare),493.982,4,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-00:29:36,iShare (w/ unshare),546.081,4,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-22:21:25,iShare (w/ unshare),571.104,4,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-04:39:33,iShare (w/ unshare),500.378,4,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-08:55:58,iShare (w/ unshare),504.563,4,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-17:48:30,iShare (w/ unshare),632.747,4,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-05:11:00,iShare (w/ unshare),505.72,4,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-14:40:17,iShare (w/ unshare),637.266,4,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-03:38:09,iShare (w/ unshare),515.976,4,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-02:58:56,iShare (w/ unshare),486.761,4,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-07:41:26,iShare (w/ unshare),507.058,4,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-10:16:48,iShare (w/ unshare),410.014,4,0.1,Ten TPC-H Queries,uniform,True
+09-11-06:06:30,iShare (w/ unshare),305.085,4,2.0,Ten TPC-H Queries,uniform,True
+09-11-07:32:03,iShare (w/ unshare),310.706,4,4.0,Ten TPC-H Queries,uniform,True
+09-01-19:13:07,iShare (w/ unshare),322.794,4,1.0,Ten TPC-H Queries,uniform,True
+09-01-17:10:22,iShare (w/ unshare),345.335,4,0.5,Ten TPC-H Queries,uniform,True
+09-01-13:48:16,iShare (w/ unshare),360.943,4,0.2,Ten TPC-H Queries,uniform,True
+09-01-11:32:15,iShare (w/ unshare),412.326,4,0.1,Ten TPC-H Queries,uniform,True
+09-11-06:35:13,iShare (w/ unshare),309.933,4,2.0,Ten TPC-H Queries,uniform,True
+09-11-08:00:12,iShare (w/ unshare),309.697,4,4.0,Ten TPC-H Queries,uniform,True
+09-01-19:52:54,iShare (w/ unshare),329.037,4,1.0,Ten TPC-H Queries,uniform,True
+09-01-17:53:25,iShare (w/ unshare),352.779,4,0.5,Ten TPC-H Queries,uniform,True
+09-01-14:46:07,iShare (w/ unshare),370.209,4,0.2,Ten TPC-H Queries,uniform,True
+09-01-16:27:23,iShare (w/ unshare),345.066,4,0.5,Ten TPC-H Queries,uniform,True
+08-30-23:55:34,iShare (w/ unshare),354.423,4,0.0,Ten TPC-H Queries,nonUniform,True
+08-31-00:56:04,iShare (w/ unshare),403.771,4,1.0,Ten TPC-H Queries,nonUniform,True
+08-31-01:56:14,iShare (w/ unshare),374.583,4,2.0,Ten TPC-H Queries,nonUniform,True
+08-29-19:15:11,iShare (w/ unshare),601.839,4,0.0,All TPC-H Queries,nonUniform,True
+08-29-21:00:49,iShare (w/ unshare),592.198,4,1.0,All TPC-H Queries,nonUniform,True
+08-29-22:57:36,iShare (w/ unshare),598.802,4,2.0,All TPC-H Queries,nonUniform,True
+08-31-03:51:37,iShare (w/ unshare),642.226,4,0.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+08-31-06:02:02,iShare (w/ unshare),549.404,4,1.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+08-31-08:42:43,iShare (w/ unshare),626.415,4,2.0,Ten TPC-H Queries Twice with Different Parameters,nonUniform,True
+09-01-18:33:43,iShare (w/ unshare),337.714,4,1.0,Ten TPC-H Queries,uniform,True
+09-01-15:43:20,iShare (w/ unshare),370.781,4,0.2,Ten TPC-H Queries,uniform,True
+09-01-12:48:41,iShare (w/ unshare),438.676,4,0.1,Ten TPC-H Queries,uniform,True
+08-30-19:30:12,iShare (w/ unshare),595.159,4,0.5,All TPC-H Queries,uniform,True
+08-30-15:40:06,iShare (w/ unshare),585.219,4,0.2,All TPC-H Queries,uniform,True
+08-30-10:51:47,iShare (w/ unshare),650.148,4,0.1,All TPC-H Queries,uniform,True
+09-10-22:01:35,iShare (w/ unshare),517.743,4,2.0,All TPC-H Queries,uniform,True
+09-11-00:24:03,iShare (w/ unshare),510.518,4,4.0,All TPC-H Queries,uniform,True
+09-01-06:26:59,iShare (w/ unshare),498.506,4,1.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-01-02:05:07,iShare (w/ unshare),533.247,4,0.5,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-20:14:30,iShare (w/ unshare),620.969,4,0.2,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-31-11:33:17,iShare (w/ unshare),633.814,4,0.1,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-01:14:41,iShare (w/ unshare),489.344,4,2.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+09-11-03:49:20,iShare (w/ unshare),507.957,4,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True
+08-30-22:54:39,iShare (w/ unshare),516.609,4,1.0,All TPC-H Queries,uniform,True
+09-10-23:36:40,iShare (w/ unshare),521.224,4,4.0,All TPC-H Queries,uniform,True
+09-11-07:03:44,iShare (w/ unshare),311.293,4,2.0,Ten TPC-H Queries,uniform,True
+09-11-08:28:32,iShare (w/ unshare),312.538,4,4.0,Ten TPC-H Queries,uniform,True
+08-30-20:39:07,iShare (w/ unshare),523.954,4,1.0,All TPC-H Queries,uniform,True
+08-30-16:57:25,iShare (w/ unshare),542.608,4,0.5,All TPC-H Queries,uniform,True
+08-30-12:29:58,iShare (w/ unshare),580.211,4,0.2,All TPC-H Queries,uniform,True
+08-30-00:59:31,iShare (w/ unshare),637.032,4,0.1,All TPC-H Queries,uniform,True
+09-10-20:25:19,iShare (w/ unshare),511.48,4,2.0,All TPC-H Queries,uniform,True
+09-10-22:49:04,iShare (w/ unshare),515.479,4,4.0,All TPC-H Queries,uniform,True
+08-30-21:46:51,iShare (w/ unshare),507.385,4,1.0,All TPC-H Queries,uniform,True
+08-30-18:12:42,iShare (w/ unshare),544.755,4,0.5,All TPC-H Queries,uniform,True
+08-30-14:05:02,iShare (w/ unshare),589.753,4,0.2,All TPC-H Queries,uniform,True
+08-30-08:47:55,iShare (w/ unshare),644.121,4,0.1,All TPC-H Queries,uniform,True
+09-10-21:13:28,iShare (w/ unshare),507.003,4,2.0,All TPC-H Queries,uniform,True
+09-11-05:30:02,iShare (w/ unshare),504.651,4,4.0,Ten TPC-H Queries Twice with Different Parameters,uniform,True

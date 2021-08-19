@@ -1,0 +1,5 @@
+execution_type,cpu_time,mean_percent,mean_time,max_percent,max_time,median_percent,median_time,min_percent,min_time
+NoShare-Uniform,834.302,4.402253817,0.156969697,96.84958398,3.4533333330000002,0,0.0,0,0.0
+NoShare-Nonuniform,812.969,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+Share-Uniform,2326.429,29.70671471,1.059242424,653.5477236,23.30333333,0,0.0,0,0.0
+iShare,648.561,0.0,0.0,0.0,0.0,0,0.0,0,0.0

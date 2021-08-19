@@ -1,0 +1,5 @@
+,execution_type,mean_percent (%),max_percent (%),mean_time (s),max_time (s)
+0,NoShare-Nonuniform,0.0,0.0,0.0,0.0
+1,NoShare-Uniform,0.07130124809559167,1.7112299542942002,0.006222222249999959,0.149333333999999
+2,Share-Uniform,0.5782085571488303,7.257448442112856,0.03719444449999992,0.574333333999999
+3,iShare (w/ unshare),0.0,0.0,0.0,0.0
