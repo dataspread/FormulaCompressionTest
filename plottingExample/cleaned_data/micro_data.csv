@@ -1,0 +1,157 @@
+timestamp,execution_type,time,pairing,goal
+09-06-19:49:03,NoShare-Uniform,91.443,pairA,1.0
+09-06-19:57:34,NoShare-Uniform,90.494,pairA,1.0
+09-06-20:06:15,NoShare-Uniform,90.568,pairA,1.0
+09-06-19:22:36,NoShare-Uniform,95.234,pairA,0.5
+09-06-19:31:23,NoShare-Uniform,91.446,pairA,0.5
+09-06-19:40:16,NoShare-Uniform,94.238,pairA,0.5
+09-06-18:54:26,NoShare-Uniform,91.255,pairA,0.2
+09-06-19:03:59,NoShare-Uniform,95.341,pairA,0.2
+09-06-19:13:18,NoShare-Uniform,93.937,pairA,0.2
+09-06-18:23:07,NoShare-Uniform,95.112,pairA,0.1
+09-06-18:33:36,NoShare-Uniform,98.649,pairA,0.1
+09-06-18:44:09,NoShare-Uniform,93.845,pairA,0.1
+09-16-11:39:51,NoShare-Uniform,92.776,pairA,2.0
+09-16-11:44:00,NoShare-Uniform,91.564,pairA,2.0
+09-16-11:48:12,NoShare-Uniform,90.22,pairA,2.0
+09-06-22:03:05,NoShare-Uniform,70.189,pairB,1.0
+09-06-22:12:13,NoShare-Uniform,65.296,pairB,1.0
+09-06-22:21:32,NoShare-Uniform,66.694,pairB,1.0
+09-06-21:34:10,NoShare-Uniform,67.859,pairB,0.5
+09-06-21:43:50,NoShare-Uniform,70.759,pairB,0.5
+09-06-21:53:29,NoShare-Uniform,70.423,pairB,0.5
+09-06-21:02:44,NoShare-Uniform,73.179,pairB,0.2
+09-06-21:13:15,NoShare-Uniform,74.121,pairB,0.2
+09-06-21:23:51,NoShare-Uniform,74.607,pairB,0.2
+09-06-20:14:54,NoShare-Uniform,75.631,pairB,0.1
+09-06-20:30:57,NoShare-Uniform,78.271,pairB,0.1
+09-06-20:46:59,NoShare-Uniform,75.983,pairB,0.1
+09-07-01:01:16,NoShare-Uniform,46.754,pairC,1.0
+09-07-01:08:16,NoShare-Uniform,47.201,pairC,1.0
+09-07-01:15:12,NoShare-Uniform,48.52,pairC,1.0
+09-07-00:38:26,NoShare-Uniform,50.44,pairC,0.5
+09-07-00:46:05,NoShare-Uniform,53.188,pairC,0.5
+09-07-00:53:45,NoShare-Uniform,52.115,pairC,0.5
+09-07-00:08:56,NoShare-Uniform,54.097,pairC,0.2
+09-07-00:18:45,NoShare-Uniform,55.081,pairC,0.2
+09-07-00:28:39,NoShare-Uniform,54.212,pairC,0.2
+09-06-23:31:18,NoShare-Uniform,60.215,pairC,0.1
+09-06-23:43:58,NoShare-Uniform,61.766,pairC,0.1
+09-06-23:56:37,NoShare-Uniform,60.584,pairC,0.1
+09-16-11:51:37,NoShare-Uniform,46.513,pairC,2.0
+09-16-11:54:36,NoShare-Uniform,47.792,pairC,2.0
+09-16-11:57:32,NoShare-Uniform,46.838,pairC,2.0
+09-06-19:55:16,NoShare-Nonuniform,90.799,pairA,1.0
+09-06-20:03:56,NoShare-Nonuniform,93.268,pairA,1.0
+09-06-20:12:33,NoShare-Nonuniform,90.77,pairA,1.0
+09-06-19:29:01,NoShare-Nonuniform,90.322,pairA,0.5
+09-06-19:37:51,NoShare-Nonuniform,92.362,pairA,0.5
+09-06-19:46:44,NoShare-Nonuniform,92.891,pairA,0.5
+09-06-19:01:30,NoShare-Nonuniform,94.112,pairA,0.2
+09-06-19:10:51,NoShare-Nonuniform,92.76,pairA,0.2
+09-06-19:20:12,NoShare-Nonuniform,92.775,pairA,0.2
+09-06-18:30:58,NoShare-Nonuniform,96.572,pairA,0.1
+09-06-18:41:36,NoShare-Nonuniform,100.907,pairA,0.1
+09-06-18:52:02,NoShare-Nonuniform,96.302,pairA,0.1
+09-06-22:10:15,NoShare-Nonuniform,68.11081255585674,pairB,1.0
+09-06-22:19:33,NoShare-Nonuniform,68.22381255585674,pairB,1.0
+09-06-22:28:43,NoShare-Nonuniform,67.48481255585673,pairB,1.0
+09-06-21:41:44,NoShare-Nonuniform,71.80181255585674,pairB,0.5
+09-06-21:51:23,NoShare-Nonuniform,71.20481255585675,pairB,0.5
+09-06-22:01:02,NoShare-Nonuniform,72.64081255585674,pairB,0.5
+09-06-21:10:58,NoShare-Nonuniform,73.98081255585674,pairB,0.2
+09-06-21:21:34,NoShare-Nonuniform,75.06681255585674,pairB,0.2
+09-06-21:32:06,NoShare-Nonuniform,72.02581255585675,pairB,0.2
+09-06-20:28:27,NoShare-Nonuniform,78.70481255585675,pairB,0.1
+09-06-20:44:31,NoShare-Nonuniform,80.08481255585674,pairB,0.1
+09-06-21:00:28,NoShare-Nonuniform,77.78281255585674,pairB,0.1
+09-07-01:06:38,NoShare-Nonuniform,46.39278088116707,pairC,1.0
+09-07-01:13:33,NoShare-Nonuniform,48.14078088116707,pairC,1.0
+09-07-01:20:31,NoShare-Nonuniform,46.50478088116707,pairC,1.0
+09-07-00:44:20,NoShare-Nonuniform,48.68957532438971,pairC,0.5
+09-07-00:52:01,NoShare-Nonuniform,50.388575324389706,pairC,0.5
+09-07-00:59:38,NoShare-Nonuniform,51.9175753243897,pairC,0.5
+09-07-00:16:56,NoShare-Nonuniform,51.72452041639177,pairC,0.2
+09-07-00:26:51,NoShare-Nonuniform,52.357520416391765,pairC,0.2
+09-07-00:36:43,NoShare-Nonuniform,53.04252041639177,pairC,0.2
+09-06-23:41:54,NoShare-Nonuniform,60.927547027344026,pairC,0.1
+09-06-23:54:34,NoShare-Nonuniform,56.59454702734403,pairC,0.1
+09-07-00:07:07,NoShare-Nonuniform,60.09054702734403,pairC,0.1
+09-06-19:50:56,Share-Uniform,52.648,pairA,1.0
+09-06-19:59:29,Share-Uniform,54.254,pairA,1.0
+09-06-20:08:12,Share-Uniform,56.422,pairA,1.0
+09-06-19:24:37,Share-Uniform,57.431,pairA,0.5
+09-06-19:33:27,Share-Uniform,59.738,pairA,0.5
+09-06-19:42:18,Share-Uniform,58.136,pairA,0.5
+09-06-18:56:49,Share-Uniform,65.505,pairA,0.2
+09-06-19:06:19,Share-Uniform,62.888,pairA,0.2
+09-06-19:15:36,Share-Uniform,60.907,pairA,0.2
+09-06-18:25:57,Share-Uniform,73.138,pairA,0.1
+09-06-18:36:26,Share-Uniform,71.351,pairA,0.1
+09-06-18:46:58,Share-Uniform,71.834,pairA,0.1
+09-16-11:41:38,Share-Uniform,49.295,pairA,2.0
+09-16-11:45:51,Share-Uniform,52.222,pairA,2.0
+09-16-11:50:03,Share-Uniform,53.591,pairA,2.0
+09-06-22:05:13,Share-Uniform,56.182,pairB,1.0
+09-06-22:14:21,Share-Uniform,55.936,pairB,1.0
+09-06-22:23:41,Share-Uniform,56.042,pairB,1.0
+09-06-21:36:22,Share-Uniform,57.684,pairB,0.5
+09-06-21:46:04,Share-Uniform,58.528,pairB,0.5
+09-06-21:55:40,Share-Uniform,56.906,pairB,0.5
+09-06-21:05:15,Share-Uniform,64.29,pairB,0.2
+09-06-21:15:50,Share-Uniform,68.198,pairB,0.2
+09-06-21:26:22,Share-Uniform,63.755,pairB,0.2
+09-06-20:22:17,Share-Uniform,337.373,pairB,0.1
+09-06-20:38:16,Share-Uniform,334.161,pairB,0.1
+09-06-20:54:14,Share-Uniform,329.734,pairB,0.1
+09-07-01:02:49,Share-Uniform,37.125,pairC,1.0
+09-07-01:09:47,Share-Uniform,34.785,pairC,1.0
+09-07-01:16:46,Share-Uniform,36.952,pairC,1.0
+09-07-00:40:13,Share-Uniform,45.814,pairC,0.5
+09-07-00:47:51,Share-Uniform,46.442,pairC,0.5
+09-07-00:55:31,Share-Uniform,46.223,pairC,0.5
+09-07-00:12:40,Share-Uniform,95.723,pairC,0.2
+09-07-00:22:35,Share-Uniform,100.25,pairC,0.2
+09-07-00:32:28,Share-Uniform,101.309,pairC,0.2
+09-06-23:36:29,Share-Uniform,117.739,pairC,0.1
+09-06-23:49:14,Share-Uniform,119.232,pairC,0.1
+09-07-00:01:43,Share-Uniform,109.323,pairC,0.1
+09-16-11:53:02,Share-Uniform,29.482,pairC,2.0
+09-16-11:55:58,Share-Uniform,27.146,pairC,2.0
+09-16-11:58:56,Share-Uniform,29.272,pairC,2.0
+09-06-19:52:53,iShare (w/ unshare),53.626,pairA,1.0
+09-06-20:01:31,iShare (w/ unshare),57.602,pairA,1.0
+09-06-20:10:12,iShare (w/ unshare),56.138,pairA,1.0
+09-09-20:29:16,iShare (w/ unshare),55.493,pairA,0.5
+09-09-20:31:14,iShare (w/ unshare),55.73,pairA,0.5
+09-09-20:33:13,iShare (w/ unshare),55.526,pairA,0.5
+09-06-18:58:59,iShare (w/ unshare),58.799,pairA,0.2
+09-06-19:08:23,iShare (w/ unshare),52.24,pairA,0.2
+09-06-19:17:43,iShare (w/ unshare),55.482,pairA,0.2
+09-06-18:28:20,iShare (w/ unshare),57.863,pairA,0.1
+09-06-18:38:52,iShare (w/ unshare),59.808,pairA,0.1
+09-06-18:49:24,iShare (w/ unshare),57.637,pairA,0.1
+09-06-22:07:22,iShare (w/ unshare),53.63,pairB,1.0
+09-06-22:16:39,iShare (w/ unshare),60.405,pairB,1.0
+09-06-22:25:49,iShare (w/ unshare),52.419,pairB,1.0
+09-06-21:38:43,iShare (w/ unshare),58.469,pairB,0.5
+09-06-21:48:23,iShare (w/ unshare),56.303,pairB,0.5
+09-06-21:57:59,iShare (w/ unshare),58.941,pairB,0.5
+09-06-21:07:48,iShare (w/ unshare),59.254,pairB,0.2
+09-06-21:18:24,iShare (w/ unshare),60.316,pairB,0.2
+09-06-21:28:58,iShare (w/ unshare),61.259,pairB,0.2
+09-06-20:25:02,iShare (w/ unshare),60.247,pairB,0.1
+09-06-20:41:04,iShare (w/ unshare),62.276,pairB,0.1
+09-06-20:57:05,iShare (w/ unshare),64.143,pairB,0.1
+09-07-01:04:26,iShare (w/ unshare),36.898,pairC,1.0
+09-07-01:11:21,iShare (w/ unshare),34.846,pairC,1.0
+09-07-01:18:21,iShare (w/ unshare),34.693,pairC,1.0
+09-07-00:42:05,iShare (w/ unshare),46.997,pairC,0.5
+09-07-00:49:46,iShare (w/ unshare),49.395,pairC,0.5
+09-07-00:57:24,iShare (w/ unshare),48.159,pairC,0.5
+09-07-00:14:25,iShare (w/ unshare),53.464,pairC,0.2
+09-07-00:24:21,iShare (w/ unshare),54.331,pairC,0.2
+09-07-00:34:14,iShare (w/ unshare),54.719,pairC,0.2
+09-06-23:38:32,iShare (w/ unshare),63.035,pairC,0.1
+09-06-23:51:15,iShare (w/ unshare),62.111,pairC,0.1
+09-07-00:03:46,iShare (w/ unshare),63.457,pairC,0.1
