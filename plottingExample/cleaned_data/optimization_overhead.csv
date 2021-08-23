@@ -1,0 +1,4 @@
+,Query Set,Find Nonuniform Pace,Estimate Unsharing,Incrementally Adjust Pace,Total
+0,22 TPC-H,25.56,0.066,0.0,25.626
+1,10 TPC-H,10.524,0.017,0.0,10.541
+2,Double 10 TPC-H,42.502,0.077,0.48,43.059
