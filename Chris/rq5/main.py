@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
     try:
     
-      # Open, update, close,  measure, repeat
+      # Open, update, close, measure, repeat
       for t in range(TRIALS):
         print(f"Running: {relative_input_path} (trial {t + 1})")
         test_start_time = datetime.datetime.now()
