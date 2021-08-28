@@ -10,7 +10,7 @@ import sys
 import os
 
 INPUTS_PATH = os.path.join('inputs')
-OUTPUT_PATH = os.path.join('output')
+OUTPUT_PATH = os.path.join('results', 'excel')
 TRIALS = 3
 
 if __name__ == "__main__":
