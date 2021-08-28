@@ -1,12 +1,12 @@
 #!/bin/bash
 
-JAVA_HOME=/usr/lib/jvm/java-13-openjdk-amd64
-JAVA_CMD=$JAVA_HOME/bin/java
+JAVA_HOME=c:/PROGRA~1/Java/jdk-13.0.2
+JAVA_CMD=$JAVA_HOME/bin/java.exe
 JAVA_CONFIG=-Xss4m
-MAVEN_HOME=/home/totemtang/.m2
-DATASPREAD_HOME=/home/totemtang/dataspread/dataspread-web
+MAVEN_HOME=~/.m2
+DATASPREAD_HOME=~/Documents/Dataspread/dataspread-web
 
-TEST_HOME=/home/totemtang/dataspread/FormulaCompressionTest/VaryRowNum
+TEST_HOME=~/Documents/Dataspread/FormulaCompressionTest/Jonathan/BasicTest
 REPORT_HOME=$TEST_HOME/report
 COMMON_CONFIG=$TEST_HOME/commonConfig.properties
 TEST_MAIN=FormulaCompressionTest.CompressionTestMain
@@ -17,8 +17,8 @@ CLASSPATH=$DATASPREAD_HOME/testcode/target/classes:$MAVEN_HOME/repository/org/ap
 declare -a depTableClassString=("PGImpl")
 #declare -a rows=("5000" "10000" "15000" "20000")
 declare -a rows=("5000" "10000")
-#declare -a runs=("1" "2" "3")
-declare -a runs=("1")
+declare -a runs=("1" "2" "3")
+#declare -a runs=("1")
 
 for run in "${runs[@]}"
 do
@@ -44,4 +44,3 @@ do
 		done
 	done
 done
-
