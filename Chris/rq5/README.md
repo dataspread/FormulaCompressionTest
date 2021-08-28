@@ -28,6 +28,6 @@
 
 5. Run the script!
     ```sh
-    py main.py
+    python main.py
     ```
 
