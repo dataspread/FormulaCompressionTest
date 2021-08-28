@@ -59,7 +59,7 @@ if __name__ == "__main__":
           os.path.join(
             OUTPUT_PATH, 
             relative_output_path, 
-            f'RUN-{t}', 
+            f'RUN-{t + 1}', 
             f'ROWS-{rows}'
           ),
           rows,

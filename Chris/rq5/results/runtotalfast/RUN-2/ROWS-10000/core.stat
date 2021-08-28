@@ -1,7 +1,7 @@
-Total test time (ms): 159.0
+Total test time (ms): 184.999
 Number of cells to update: 10001
 Number of cells updated: 10001
-Total time to update cells (ms): 12.999
+Total time to update cells (ms): 8.975
 Total time after the update (ms): None
 Total time of getting dependents (ms): None
 Total time of adding the batch (ms): None
