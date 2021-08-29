@@ -21,7 +21,7 @@ public abstract class Creator {
 
     private static final OdsFactory odsFactory = OdsFactory.create(Logger.getLogger("logger"), Locale.US);
 
-    public static void createExcelSheet (Creatable createable, String path, int rows, Function<Integer, Number> valueGenerator) {
+    public static void createExcelSheet (Creatable createable, String path, int rows, Function<Integer, Double> valueGenerator) {
         try (SXSSFWorkbook workbook = new SXSSFWorkbook(1)) {
             String filename = Path.of(path, "ROWS-" + rows + ".xlsx").toString();
             if (!(new File(filename)).exists()) {
@@ -36,7 +36,7 @@ public abstract class Creator {
         }
     }
 
-    public static void createCalcSheet (Creatable createable, String path, int rows, Function<Integer, Number> valueGenerator) {
+    public static void createCalcSheet (Creatable createable, String path, int rows, Function<Integer, Double> valueGenerator) {
         File filename = Path.of(path, "ROWS-" + rows + ".ods").toFile();
         if (!filename.exists()) {
             try {
