@@ -10,7 +10,7 @@ import creator.Creatable;
 
 public class RunTotalFast implements Creatable {
   
-  private static final String CREATE_STR = "A%d + B%d";
+  private static final String FORMULA = "A%d + B%d";
 
   @Override
   public void createExcelSheet(SXSSFSheet sheet, int rows, Function<Integer, Number> valueGenerator) {
@@ -20,7 +20,7 @@ public class RunTotalFast implements Creatable {
     for (int r = 1; r < rows; r++) {
       row = sheet.createRow(r);
       row.createCell(0).setCellValue((double) valueGenerator.apply(r));
-      row.createCell(1).setCellFormula(String.format(CREATE_STR, r + 1, r));
+      row.createCell(1).setCellFormula(String.format(FORMULA, r + 1, r));
     }
   }
 
@@ -32,7 +32,7 @@ public class RunTotalFast implements Creatable {
     for (int r = 1; r < rows; r++) {
       row = sheet.getRow(r);
       row.getOrCreateCell(0).setFloatValue((double) valueGenerator.apply(r));
-      row.getOrCreateCell(1).setFormula(String.format(CREATE_STR, r + 1, r));
+      row.getOrCreateCell(1).setFormula(String.format(FORMULA, r + 1, r));
     }
   }
 
