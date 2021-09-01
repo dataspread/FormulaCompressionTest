@@ -1,0 +1,29 @@
+Report:
+
+TestCase: TestRate15000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: Comp
+cacheSize: 1000000000
+testArg1: 15000
+Touched time: 1630513541050
+Test start time: 1630513486081
+Test end time: 1630513541118
+Total test time (ms): 55037
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 15001
+Number of cells updated: 0
+Update cell start time: 1630513539142
+Update cell end time: 1630513541018
+Total time to update cells (ms): 1876
+Total time after the update (ms): 32
+Total time of getting dependents (ms): 6
+Area under curve: 5.7241908E7
+Curve: 
+0, 30001
+1908, 30001
+1908, 0
