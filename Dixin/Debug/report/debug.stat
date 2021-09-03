@@ -1,0 +1,1411 @@
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 100
+Touched time: 1630240133658
+Test start time: 1630240107461
+Test end time: 1630240133674
+Total test time (ms): 26213
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630240133597
+Update cell end time: 1630240133656
+Total time to update cells (ms): 59
+Total time after the update (ms): 2
+Total time of getting dependents (ms): 1
+Area under curve: 12261.0
+Curve: 
+0, 201
+61, 201
+61, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 100
+Touched time: 1630240185866
+Test start time: 1630240185496
+Test end time: 1630240185873
+Total test time (ms): 377
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630240185817
+Update cell end time: 1630240185865
+Total time to update cells (ms): 48
+Total time after the update (ms): 1
+Total time of getting dependents (ms): 2
+Area under curve: 9849.0
+Curve: 
+0, 201
+49, 201
+49, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 100
+Touched time: 1630240314511
+Test start time: 1630240231497
+Test end time: 1630240314524
+Total test time (ms): 83027
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630240314472
+Update cell end time: 1630240314510
+Total time to update cells (ms): 38
+Total time after the update (ms): 1
+Total time of getting dependents (ms): 2
+Area under curve: 7839.0
+Curve: 
+0, 201
+39, 201
+39, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 100
+Touched time: 1630240803950
+Test start time: 1630240803615
+Test end time: 1630240803959
+Total test time (ms): 344
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630240803916
+Update cell end time: 1630240803948
+Total time to update cells (ms): 32
+Total time after the update (ms): 2
+Total time of getting dependents (ms): 1
+Area under curve: 6834.0
+Curve: 
+0, 201
+34, 201
+34, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 100
+Touched time: 1630240989972
+Test start time: 1630240806840
+Test end time: 1630240989979
+Total test time (ms): 183139
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630240989929
+Update cell end time: 1630240989971
+Total time to update cells (ms): 42
+Total time after the update (ms): 1
+Total time of getting dependents (ms): 2
+Area under curve: 8643.0
+Curve: 
+0, 201
+43, 201
+43, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 100
+Touched time: 1630241390450
+Test start time: 1630241389949
+Test end time: 1630241390464
+Total test time (ms): 515
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630241390360
+Update cell end time: 1630241390448
+Total time to update cells (ms): 88
+Total time after the update (ms): 2
+Total time of getting dependents (ms): 29
+Area under curve: 18090.0
+Curve: 
+0, 201
+90, 201
+90, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 100
+Touched time: 1630241503754
+Test start time: 1630241410249
+Test end time: 1630241503761
+Total test time (ms): 93512
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630241503685
+Update cell end time: 1630241503753
+Total time to update cells (ms): 68
+Total time after the update (ms): 1
+Total time of getting dependents (ms): 20
+Area under curve: 13869.0
+Curve: 
+0, 201
+69, 201
+69, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 25000
+Touched time: 1630243012481
+Test start time: 1630242909450
+Test end time: 1630243012588
+Total test time (ms): 103138
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630243008333
+Update cell end time: 1630243012457
+Total time to update cells (ms): 4124
+Total time after the update (ms): 24
+Total time of getting dependents (ms): 3066
+Area under curve: 2.07404148E8
+Curve: 
+0, 50001
+4148, 50001
+4148, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630243288229
+Test start time: 1630243109818
+Test end time: 1630243288366
+Total test time (ms): 178548
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630243239582
+Update cell end time: 1630243288205
+Total time to update cells (ms): 48623
+Total time after the update (ms): 24
+Total time of getting dependents (ms): 2971
+Area under curve: 2.432398647E9
+Curve: 
+0, 50001
+48647, 50001
+48647, 0
+Report:
+
+TestCase: TestRate10000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 10000
+Touched time: 1630243514481
+Test start time: 1630243460182
+Test end time: 1630243514537
+Total test time (ms): 54355
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630243503531
+Update cell end time: 1630243514473
+Total time to update cells (ms): 10942
+Total time after the update (ms): 8
+Total time of getting dependents (ms): 1067
+Area under curve: 2.1901095E8
+Curve: 
+0, 20001
+10950, 20001
+10950, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 10000
+testArg1: 100
+Touched time: 1630243899622
+Test start time: 1630243793570
+Test end time: 1630243902970
+Total test time (ms): 109400
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630243816327
+Update cell end time: 1630243899620
+Total time to update cells (ms): 83293
+Total time after the update (ms): 2
+Total time of getting dependents (ms): 19
+Area under curve: 1.6742295E7
+Curve: 
+0, 201
+83295, 201
+83295, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 10000
+testArg1: 100
+Touched time: 1630244296247
+Test start time: 1630243923369
+Test end time: 1630244296265
+Total test time (ms): 372896
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630244293782
+Update cell end time: 1630244296246
+Total time to update cells (ms): 2464
+Total time after the update (ms): 1
+Total time of getting dependents (ms): 118
+Area under curve: 495465.0
+Curve: 
+0, 201
+2465, 201
+2465, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 25000
+Touched time: 1630244749903
+Test start time: 1630244656619
+Test end time: 1630244750074
+Total test time (ms): 93455
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630244745383
+Update cell end time: 1630244749880
+Total time to update cells (ms): 4497
+Total time after the update (ms): 23
+Total time of getting dependents (ms): 0
+Area under curve: 2.2600452E8
+Curve: 
+0, 50001
+4520, 50001
+4520, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 25000
+Touched time: 1630244975641
+Test start time: 1630244872296
+Test end time: 1630244975760
+Total test time (ms): 103464
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630244970882
+Update cell end time: 1630244975617
+Total time to update cells (ms): 4735
+Total time after the update (ms): 24
+Total time of getting dependents (ms): 0
+Area under curve: 2.37954759E8
+Curve: 
+0, 50001
+4759, 50001
+4759, 0
+Report:
+
+TestCase: TestRate100000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 100000
+Touched time: 1630249777124
+Test start time: 1630249427397
+Test end time: 1630249777481
+Total test time (ms): 350084
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 100001
+Number of cells updated: 0
+Update cell start time: 1630249774411
+Update cell end time: 1630249777020
+Total time to update cells (ms): 2609
+Total time after the update (ms): 104
+Total time of getting dependents (ms): 0
+Area under curve: 5.42602713E8
+Curve: 
+0, 200001
+2713, 200001
+2713, 0
+Report:
+
+TestCase: TestRate100000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 100000
+Touched time: 1630250526363
+Test start time: 1630249830833
+Test end time: 1630250526777
+Total test time (ms): 695944
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 100001
+Number of cells updated: 0
+Update cell start time: 1630250515066
+Update cell end time: 1630250526211
+Total time to update cells (ms): 11145
+Total time after the update (ms): 152
+Total time of getting dependents (ms): 0
+Area under curve: 2.259411297E9
+Curve: 
+0, 200001
+11297, 200001
+11297, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 100
+Touched time: 1630250748409
+Test start time: 1630250633744
+Test end time: 1630250778109
+Total test time (ms): 144365
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630250645749
+Update cell end time: 1630250748408
+Total time to update cells (ms): 102659
+Total time after the update (ms): 1
+Total time of getting dependents (ms): 0
+Area under curve: 2.063466E7
+Curve: 
+0, 201
+102660, 201
+102660, 0
+Report:
+
+TestCase: TestRate100
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 100
+Touched time: 1630336242097
+Test start time: 1630336237875
+Test end time: 1630336242105
+Total test time (ms): 4230
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630336241127
+Update cell end time: 1630336242095
+Total time to update cells (ms): 968
+Total time after the update (ms): 2
+Total time of getting dependents (ms): 0
+Area under curve: 194970.0
+Curve: 
+0, 201
+970, 201
+970, 0
+Report:
+
+TestCase: TestRate10000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 10000
+Touched time: 1630336312496
+Test start time: 1630336282256
+Test end time: 1630336312550
+Total test time (ms): 30294
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630336312153
+Update cell end time: 1630336312486
+Total time to update cells (ms): 333
+Total time after the update (ms): 10
+Total time of getting dependents (ms): 0
+Area under curve: 6860343.0
+Curve: 
+0, 20001
+343, 20001
+343, 0
+Report:
+
+TestCase: TestRate10000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 10000
+Touched time: 1630336431246
+Test start time: 1630336380523
+Test end time: 1630336466165
+Total test time (ms): 85642
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630336422180
+Update cell end time: 1630336431234
+Total time to update cells (ms): 9054
+Total time after the update (ms): 12
+Total time of getting dependents (ms): 0
+Area under curve: 1.81329066E8
+Curve: 
+0, 20001
+9066, 20001
+9066, 0
+Report:
+
+TestCase: TestRate10000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 10000
+Touched time: 1630336595468
+Test start time: 1630336564399
+Test end time: 1630336595524
+Total test time (ms): 31125
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630336595115
+Update cell end time: 1630336595459
+Total time to update cells (ms): 344
+Total time after the update (ms): 9
+Total time of getting dependents (ms): 145
+Area under curve: 7060353.0
+Curve: 
+0, 20001
+353, 20001
+353, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 25000
+Touched time: 1630336702585
+Test start time: 1630336627232
+Test end time: 1630336702732
+Total test time (ms): 75500
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630336701773
+Update cell end time: 1630336702555
+Total time to update cells (ms): 782
+Total time after the update (ms): 30
+Total time of getting dependents (ms): 378
+Area under curve: 4.0600812E7
+Curve: 
+0, 50001
+812, 50001
+812, 0
+Report:
+
+TestCase: TestRate100000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 100000
+Touched time: 1630337968200
+Test start time: 1630337582853
+Test end time: 1630337968515
+Total test time (ms): 385662
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 100001
+Number of cells updated: 0
+Update cell start time: 1630337965560
+Update cell end time: 1630337968085
+Total time to update cells (ms): 2525
+Total time after the update (ms): 115
+Total time of getting dependents (ms): 1354
+Area under curve: 5.2800264E8
+Curve: 
+0, 200001
+2640, 200001
+2640, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630546751343
+Test start time: 1630546577374
+Test end time: 1630546751422
+Total test time (ms): 174048
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630546706177
+Update cell end time: 1630546751313
+Total time to update cells (ms): 45136
+Total time after the update (ms): 30
+Total time of getting dependents (ms): 44704
+Area under curve: 2.258345166E9
+Curve: 
+0, 50001
+45166, 50001
+45166, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630557278384
+Test start time: 1630557202051
+Test end time: 1630557278459
+Total test time (ms): 76408
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1630557277849
+Update cell end time: 1630557277849
+Total time to update cells (ms): 0
+Total time after the update (ms): 535
+Total time of getting dependents (ms): 0
+Area under curve: 2.6750535E7
+Curve: 
+0, 50001
+535, 50001
+535, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630557831089
+Test start time: 1630557753465
+Test end time: 1630557831185
+Total test time (ms): 77720
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1630557830273
+Update cell end time: 1630557830275
+Total time to update cells (ms): 2
+Total time after the update (ms): 814
+Total time of getting dependents (ms): 2
+Area under curve: 4.0800816E7
+Curve: 
+0, 50001
+816, 50001
+816, 0
+Report:
+
+TestCase: TestRate25000
+Correct: true
+isSyncRunner: true
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630557970465
+Test start time: 1630557891004
+Test end time: 1630557970593
+Total test time (ms): 79589
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630557969503
+Update cell end time: 1630557970446
+Total time to update cells (ms): 943
+Total time after the update (ms): 19
+Total time of getting dependents (ms): 547
+Area under curve: 4.8100962E7
+Curve: 
+0, 50001
+962, 50001
+962, 0
+Report:
+
+TestCase: TestRate25000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 0
+Test start time: 1630560244811
+Test end time: 1630560322390
+Total test time (ms): 77579
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630560321766
+Update cell end time: 1630560322354
+Total time to update cells (ms): 588
+Total time after the update (ms): -1630560322354
+Total time of getting dependents (ms): 560
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate250
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 250
+Touched time: 1630560537569
+Test start time: 1630560536462
+Test end time: 1630560537578
+Total test time (ms): 1116
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 251
+Number of cells updated: 0
+Update cell start time: 1630560537560
+Update cell end time: 1630560537569
+Total time to update cells (ms): 9
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 7
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate500000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 500000
+Touched time: 1630561762636
+Test start time: 1630560626728
+Test end time: 1630561762645
+Total test time (ms): 1135917
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 500001
+Number of cells updated: 0
+Update cell start time: 1630561762633
+Update cell end time: 1630561762636
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate500000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 1000000000
+testArg1: 500000
+Touched time: 1630562438709
+Test start time: 1630561807614
+Test end time: 1630562438749
+Total test time (ms): 631135
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 500001
+Number of cells updated: 0
+Update cell start time: 1630562438706
+Update cell end time: 1630562438709
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate5000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 1000000000
+testArg1: 5000
+Touched time: 1630599318223
+Test start time: 1630599311741
+Test end time: 1630599318230
+Total test time (ms): 6489
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 5001
+Number of cells updated: 0
+Update cell start time: 1630599318220
+Update cell end time: 1630599318223
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate5000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 5000
+Touched time: 1630599440205
+Test start time: 1630599433672
+Test end time: 1630599440211
+Total test time (ms): 6539
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 5001
+Number of cells updated: 0
+Update cell start time: 1630599440203
+Update cell end time: 1630599440205
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate50000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 50000
+Touched time: 1630599598430
+Test start time: 1630599527765
+Test end time: 1630599598445
+Total test time (ms): 70680
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 50001
+Number of cells updated: 0
+Update cell start time: 1630599598425
+Update cell end time: 1630599598430
+Total time to update cells (ms): 5
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 3
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate500000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 500000
+Touched time: 1630602537862
+Test start time: 1630601768995
+Test end time: 1630602537930
+Total test time (ms): 768935
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 500001
+Number of cells updated: 0
+Update cell start time: 1630602537854
+Update cell end time: 1630602537862
+Total time to update cells (ms): 8
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 3
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate10000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 10000
+Touched time: 1630605756493
+Test start time: 1630605742957
+Test end time: 1630605756499
+Total test time (ms): 13542
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630605756491
+Update cell end time: 1630605756493
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate10000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 1000000000
+testArg1: 10000
+Touched time: 1630605797890
+Test start time: 1630605784342
+Test end time: 1630605797895
+Total test time (ms): 13553
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630605797887
+Update cell end time: 1630605797890
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate25000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 1000000000
+testArg1: 25000
+Touched time: 1630606013219
+Test start time: 1630605971265
+Test end time: 1630606013227
+Total test time (ms): 41962
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630606013216
+Update cell end time: 1630606013219
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate25000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630606462963
+Test start time: 1630606416509
+Test end time: 1630606462969
+Total test time (ms): 46460
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630606462961
+Update cell end time: 1630606462963
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate10000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 0
+testArg1: 10000
+Touched time: 1630607391319
+Test start time: 1630607199707
+Test end time: 1630607391373
+Total test time (ms): 191666
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630607391317
+Update cell end time: 1630607391319
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 0
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate10000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 1000000000
+testArg1: 10000
+Touched time: 1630607661928
+Test start time: 1630607464146
+Test end time: 1630607661972
+Total test time (ms): 197826
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630607661926
+Update cell end time: 1630607661928
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 0
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate10000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 10000
+Touched time: 1630632031560
+Test start time: 1630631801536
+Test end time: 1630632031589
+Total test time (ms): 230053
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1630631945445
+Update cell end time: 1630632031560
+Total time to update cells (ms): 86115
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 86102
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate25000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630633272030
+Test start time: 1630632639718
+Test end time: 1630633272085
+Total test time (ms): 632367
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630633271801
+Update cell end time: 1630633272030
+Total time to update cells (ms): 229
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 200
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate25000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630633381608
+Test start time: 1630633302774
+Test end time: 1630633381687
+Total test time (ms): 78913
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630633381346
+Update cell end time: 1630633381608
+Total time to update cells (ms): 262
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 219
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRate25000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 25000
+Touched time: 1630637777617
+Test start time: 1630637697455
+Test end time: 1630637777661
+Total test time (ms): 80206
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 25001
+Number of cells updated: 0
+Update cell start time: 1630637777378
+Update cell end time: 1630637777617
+Total time to update cells (ms): 239
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 193
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRunningTotalSlow100
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: 100
+Touched time: 1630639656393
+Test start time: 1630639593650
+Test end time: 1630639656405
+Total test time (ms): 62755
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630639656380
+Update cell end time: 1630639656393
+Total time to update cells (ms): 13
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 11
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRunningTotalSlow100
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 100
+Touched time: 1630639731120
+Test start time: 1630639704611
+Test end time: 1630639731133
+Total test time (ms): 26522
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630639731118
+Update cell end time: 1630639731120
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRefreshCache100
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 100
+testArg2: 50
+Touched time: 1630639943846
+Test start time: 1630639919334
+Test end time: 1630639943852
+Total test time (ms): 24518
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630639943791
+Update cell end time: 1630639943846
+Total time to update cells (ms): 55
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRefreshCache100
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: 100
+testArg2: 50
+Touched time: 1630640184747
+Test start time: 1630640184345
+Test end time: 1630640184754
+Total test time (ms): 409
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630640184684
+Update cell end time: 1630640184747
+Total time to update cells (ms): 63
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRefreshCache100
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 0
+testArg1: 100
+testArg2: 50
+Touched time: 1630640430924
+Test start time: 1630640376957
+Test end time: 1630640430932
+Total test time (ms): 53975
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 634
+Number of cells updated: 0
+Update cell start time: 1630640428385
+Update cell end time: 1630640430924
+Total time to update cells (ms): 2539
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: TestRefreshCache100
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 0
+testArg1: 100
+testArg2: 50
+Touched time: 1630640470735
+Test start time: 1630640464930
+Test end time: 1630640470763
+Total test time (ms): 5833
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 101
+Number of cells updated: 0
+Update cell start time: 1630640467309
+Update cell end time: 1630640470735
+Total time to update cells (ms): 3426
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
