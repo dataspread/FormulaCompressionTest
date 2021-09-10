@@ -484,3 +484,93 @@ Wed 08 Sep 2021 10:01:50 AM PDT: Finished testing Rate for Comp at row 400000
 
 Wed 08 Sep 2021 10:12:58 AM PDT: Finished testing Rate for Comp at row 500000
 
+Thu 09 Sep 2021 01:08:41 PM PDT: Finished testing RunningTotalSlow for ASync at row 10000
+
+Thu 09 Sep 2021 01:28:24 PM PDT: Finished testing RunningTotalFast for ASync at row 10000
+
+Thu 09 Sep 2021 01:31:31 PM PDT: Finished testing Rate for ASync at row 10000
+
+Thu 09 Sep 2021 01:43:20 PM PDT: Finished testing RunningTotalSlow for ASync at row 10000
+
+Thu 09 Sep 2021 02:03:37 PM PDT: Finished testing RunningTotalFast for ASync at row 10000
+
+Thu 09 Sep 2021 02:07:06 PM PDT: Finished testing Rate for ASync at row 10000
+
+Thu 09 Sep 2021 02:18:55 PM PDT: Finished testing RunningTotalSlow for ASync at row 10000
+
+Thu 09 Sep 2021 02:39:47 PM PDT: Finished testing RunningTotalFast for ASync at row 10000
+
+Thu 09 Sep 2021 02:43:18 PM PDT: Finished testing Rate for ASync at row 10000
+
+Thu 09 Sep 2021 02:43:25 PM PDT: Finished testing RunningTotalSlow for Comp at row 10000
+
+Thu 09 Sep 2021 02:49:26 PM PDT: Finished testing RunningTotalSlow for Comp at row 500000
+
+Thu 09 Sep 2021 02:49:40 PM PDT: Finished testing RunningTotalFast for Comp at row 10000
+
+Thu 09 Sep 2021 03:02:38 PM PDT: Finished testing RunningTotalFast for Comp at row 500000
+
+Thu 09 Sep 2021 03:02:54 PM PDT: Finished testing Rate for Comp at row 10000
+
+Thu 09 Sep 2021 03:15:27 PM PDT: Finished testing Rate for Comp at row 500000
+
+Thu 09 Sep 2021 03:15:50 PM PDT: Finished testing RunningTotalSlow for PGImpl at row 10000
+
+Thu 09 Sep 2021 03:31:57 PM PDT: Finished testing RunningTotalSlow for PGImpl at row 500000
+
+Thu 09 Sep 2021 03:32:38 PM PDT: Finished testing RunningTotalFast for PGImpl at row 10000
+
+Thu 09 Sep 2021 04:02:23 PM PDT: Finished testing RunningTotalFast for PGImpl at row 500000
+
+Thu 09 Sep 2021 04:02:57 PM PDT: Finished testing Rate for PGImpl at row 10000
+
+Thu 09 Sep 2021 04:29:09 PM PDT: Finished testing Rate for PGImpl at row 500000
+
+Thu 09 Sep 2021 04:29:17 PM PDT: Finished testing RunningTotalSlow for Comp at row 10000
+
+Thu 09 Sep 2021 04:35:02 PM PDT: Finished testing RunningTotalSlow for Comp at row 500000
+
+Thu 09 Sep 2021 04:35:19 PM PDT: Finished testing RunningTotalFast for Comp at row 10000
+
+Thu 09 Sep 2021 04:47:05 PM PDT: Finished testing RunningTotalFast for Comp at row 500000
+
+Thu 09 Sep 2021 04:47:20 PM PDT: Finished testing Rate for Comp at row 10000
+
+Thu 09 Sep 2021 04:59:23 PM PDT: Finished testing Rate for Comp at row 500000
+
+Thu 09 Sep 2021 04:59:42 PM PDT: Finished testing RunningTotalSlow for PGImpl at row 10000
+
+Thu 09 Sep 2021 05:13:03 PM PDT: Finished testing RunningTotalSlow for PGImpl at row 500000
+
+Thu 09 Sep 2021 05:13:36 PM PDT: Finished testing RunningTotalFast for PGImpl at row 10000
+
+Thu 09 Sep 2021 05:39:20 PM PDT: Finished testing RunningTotalFast for PGImpl at row 500000
+
+Thu 09 Sep 2021 05:39:53 PM PDT: Finished testing Rate for PGImpl at row 10000
+
+Thu 09 Sep 2021 06:09:58 PM PDT: Finished testing Rate for PGImpl at row 500000
+
+Thu 09 Sep 2021 06:10:06 PM PDT: Finished testing RunningTotalSlow for Comp at row 10000
+
+Thu 09 Sep 2021 06:15:39 PM PDT: Finished testing RunningTotalSlow for Comp at row 500000
+
+Thu 09 Sep 2021 06:15:57 PM PDT: Finished testing RunningTotalFast for Comp at row 10000
+
+Thu 09 Sep 2021 06:27:18 PM PDT: Finished testing RunningTotalFast for Comp at row 500000
+
+Thu 09 Sep 2021 06:27:34 PM PDT: Finished testing Rate for Comp at row 10000
+
+Thu 09 Sep 2021 06:39:28 PM PDT: Finished testing Rate for Comp at row 500000
+
+Thu 09 Sep 2021 06:39:49 PM PDT: Finished testing RunningTotalSlow for PGImpl at row 10000
+
+Thu 09 Sep 2021 06:53:25 PM PDT: Finished testing RunningTotalSlow for PGImpl at row 500000
+
+Thu 09 Sep 2021 06:53:58 PM PDT: Finished testing RunningTotalFast for PGImpl at row 10000
+
+Thu 09 Sep 2021 07:22:20 PM PDT: Finished testing RunningTotalFast for PGImpl at row 500000
+
+Thu 09 Sep 2021 07:23:03 PM PDT: Finished testing Rate for PGImpl at row 10000
+
+Thu 09 Sep 2021 07:51:06 PM PDT: Finished testing Rate for PGImpl at row 500000
+
