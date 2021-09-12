@@ -1,0 +1,26 @@
+Report:
+
+TestCase: TestRunningTotalFast10000
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 1000000000
+testArg1: 10000
+Touched time: 1631226758149
+Test start time: 1631226718634
+Test end time: 1631226758156
+Total test time (ms): 39522
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 10001
+Number of cells updated: 0
+Update cell start time: 1631226757996
+Update cell end time: 1631226758149
+Total time to update cells (ms): 153
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 133
+Area under curve: 0.0
+Curve: 

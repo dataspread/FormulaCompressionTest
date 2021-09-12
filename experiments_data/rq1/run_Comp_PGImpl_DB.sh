@@ -6,7 +6,7 @@ JAVA_CONFIG=-Xss4m
 MAVEN_HOME=/home/totemtang/.m2
 DATASPREAD_HOME=/home/totemtang/dataspread/dataspread-web
 
-TEST_HOME=/home/totemtang/dataspread/FormulaCompressionTest/experiments_data/getDependents
+TEST_HOME=/home/totemtang/dataspread/FormulaCompressionTest/experiments_data/rq1
 REPORT_HOME=$TEST_HOME/report
 COMMON_CONFIG=$TEST_HOME/commonConfig.properties
 TEST_MAIN=FormulaCompressionTest.CompressionTestMain
