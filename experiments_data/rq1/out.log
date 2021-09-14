@@ -574,3 +574,13 @@ Thu 09 Sep 2021 07:23:03 PM PDT: Finished testing Rate for PGImpl at row 10000
 
 Thu 09 Sep 2021 07:51:06 PM PDT: Finished testing Rate for PGImpl at row 500000
 
+Tue 14 Sep 2021 10:04:42 AM PDT: Finished testing Rate for ASync at row 20000
+
+Tue 14 Sep 2021 10:06:42 AM PDT: Finished testing Rate for ASync at row 20000
+
+Tue 14 Sep 2021 10:50:29 AM PDT: Finished testing Rate for ASync at row 20000
+
+Tue 14 Sep 2021 11:54:32 AM PDT: Finished testing RunningTotalSlow for ASync at row 15000
+
+Tue 14 Sep 2021 12:39:03 PM PDT: Finished testing RunningTotalFast for ASync at row 15000
+
