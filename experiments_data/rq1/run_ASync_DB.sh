@@ -15,11 +15,11 @@ CLASSPATH=$DATASPREAD_HOME/testcode/target/classes:$MAVEN_HOME/repository/org/ap
 
 declare -a depTableClassString=("ASync")
 #declare -a depTableClassString=("PGImpl")
-#declare -a spreadsheetString=("RunningTotalSlow" "RunningTotalFast" "Rate")
-declare -a spreadsheetString=("Rate")
+declare -a spreadsheetString=("RunningTotalSlow" "RunningTotalFast")
+#declare -a spreadsheetString=("Rate")
 #declare -a rows=("5000" "10000")
 declare -a rows=("15000")
-declare -a runs=("1" "2" "3")
+declare -a runs=("1")
 #declare -a runs=("1")
 
 for run in "${runs[@]}"
