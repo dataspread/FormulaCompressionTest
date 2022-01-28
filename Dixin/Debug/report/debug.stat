@@ -1436,3 +1436,1885 @@ Total time after the update (ms): 0
 Total time of getting dependents (ms): 1
 Area under curve: 0.0
 Curve: 
+Report:
+
+TestCase: Test
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Debug/testsheets/Test.xlsx
+Touched time: 1642793708948
+Test start time: 1642793708931
+Test end time: 1642793708953
+Total test time (ms): 22
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1642793708943
+Update cell end time: 1642793708948
+Total time to update cells (ms): 5
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: Test
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Debug/testsheets/Test.xlsx
+Touched time: 1642793806418
+Test start time: 1642793793037
+Test end time: 1642793806425
+Total test time (ms): 13388
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1642793806411
+Update cell end time: 1642793806418
+Total time to update cells (ms): 7
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: Test
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Debug/testsheets/Test.xlsx
+Touched time: 1642793864082
+Test start time: 1642793864067
+Test end time: 1642793864089
+Total test time (ms): 22
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1642793864078
+Update cell end time: 1642793864082
+Total time to update cells (ms): 4
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: Test
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Debug/testsheets/Test.xlsx
+Touched time: 1642794367081
+Test start time: 1642794367051
+Test end time: 1642794367089
+Total test time (ms): 38
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1642794367071
+Update cell end time: 1642794367081
+Total time to update cells (ms): 10
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: Test
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Debug/testsheets/Test.xlsx
+Touched time: 1642795167003
+Test start time: 1642795161459
+Test end time: 1642795167030
+Total test time (ms): 5571
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1642795167002
+Update cell end time: 1642795167003
+Total time to update cells (ms): 1
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: Test
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Debug/testsheets/Test.xlsx
+Touched time: 1642795181006
+Test start time: 1642795181001
+Test end time: 1642795181013
+Total test time (ms): 12
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1642795181005
+Update cell end time: 1642795181006
+Total time to update cells (ms): 1
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: Test
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Debug/testsheets/Test.xlsx
+Touched time: 1642795253840
+Test start time: 1642795253823
+Test end time: 1642795253857
+Total test time (ms): 34
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1642795253839
+Update cell end time: 1642795253840
+Total time to update cells (ms): 1
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: Test
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Debug/testsheets/Test.xlsx
+Touched time: 1642795343925
+Test start time: 1642795326543
+Test end time: 1642795343941
+Total test time (ms): 17398
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 2
+Number of cells updated: 0
+Update cell start time: 1642795343923
+Update cell end time: 1642795343925
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1642830604717
+Test start time: 1642829947865
+Test end time: 1642830604737
+Total test time (ms): 656872
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20847
+Number of cells updated: 0
+Update cell start time: 1642830494817
+Update cell end time: 1642830604717
+Total time to update cells (ms): 109900
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 109880
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1642834171269
+Test start time: 1642833728073
+Test end time: 1642834171277
+Total test time (ms): 443204
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 0
+Number of cells updated: 0
+Update cell start time: 1642834124758
+Update cell end time: 1642834171269
+Total time to update cells (ms): 46511
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 46494
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1642835748975
+Test start time: 1642834399959
+Test end time: 1642835748988
+Total test time (ms): 1349029
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 0
+Number of cells updated: 0
+Update cell start time: 1642835629623
+Update cell end time: 1642835748975
+Total time to update cells (ms): 119352
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 119337
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1642836622301
+Test start time: 1642836537585
+Test end time: 1642836622308
+Total test time (ms): 84723
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 0
+Number of cells updated: 0
+Update cell start time: 1642836622291
+Update cell end time: 1642836622301
+Total time to update cells (ms): 10
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 9
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1642880447010
+Test start time: 1642880439462
+Test end time: 1642880460965
+Total test time (ms): 21503
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 0
+Number of cells updated: 0
+Update cell start time: 1642880447007
+Update cell end time: 1642880447010
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top2.xls
+testArg2: A6
+Touched time: 1642881799323
+Test start time: 1642881798859
+Test end time: 1642881841249
+Total test time (ms): 42390
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 0
+Number of cells updated: 0
+Update cell start time: 1642881799321
+Update cell end time: 1642881799323
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top2.xls
+testArg2: A6
+Touched time: 1642882059646
+Test start time: 1642881956514
+Test end time: 1642882067256
+Total test time (ms): 110742
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 0
+Number of cells updated: 0
+Update cell start time: 1642882059643
+Update cell end time: 1642882059646
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top2.xls
+testArg2: A6
+Touched time: 1642882754504
+Test start time: 1642882742560
+Test end time: 1642882754521
+Total test time (ms): 11961
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 0
+Number of cells updated: 0
+Update cell start time: 1642882754501
+Update cell end time: 1642882754504
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top2.xls
+testArg2: A6
+Touched time: 1642882837219
+Test start time: 1642882785616
+Test end time: 1642882837233
+Total test time (ms): 51617
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 0
+Number of cells updated: 0
+Update cell start time: 1642882837217
+Update cell end time: 1642882837219
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top2.xls
+testArg2: A6
+Touched time: 1642887675277
+Test start time: 1642887674959
+Test end time: 1642887675287
+Total test time (ms): 328
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 4291
+Number of cells updated: 0
+Update cell start time: 1642887675274
+Update cell end time: 1642887675276
+Total time to update cells (ms): 2
+Total time after the update (ms): 1
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top2.xls
+testArg2: A6
+Touched time: 1642888572350
+Test start time: 1642888572021
+Test end time: 1642888572360
+Total test time (ms): 339
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 4291
+Number of cells updated: 0
+Update cell start time: 1642888572348
+Update cell end time: 1642888572350
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top3
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top3.xls
+testArg2: I7
+Touched time: 1642888640301
+Test start time: 1642888639249
+Test end time: 1642888693583
+Total test time (ms): 54334
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 4382
+Number of cells updated: 0
+Update cell start time: 1642888640296
+Update cell end time: 1642888640301
+Total time to update cells (ms): 5
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top1.xls
+testArg2: Z1
+Touched time: 1642889881539
+Test start time: 1642889818358
+Test end time: 1642889886759
+Total test time (ms): 68401
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 175497
+Number of cells updated: 0
+Update cell start time: 1642889881346
+Update cell end time: 1642889881539
+Total time to update cells (ms): 193
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 189
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top1.xls
+testArg2: Z1
+Touched time: 1642889958203
+Test start time: 1642889917295
+Test end time: 1642889958217
+Total test time (ms): 40922
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 175497
+Number of cells updated: 0
+Update cell start time: 1642889958020
+Update cell end time: 1642889958203
+Total time to update cells (ms): 183
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 180
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top2.xls
+testArg2: F3
+Touched time: 1642890175612
+Test start time: 1642890167441
+Test end time: 1642890175622
+Total test time (ms): 8181
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 34740
+Number of cells updated: 0
+Update cell start time: 1642890175604
+Update cell end time: 1642890175612
+Total time to update cells (ms): 8
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 6
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top2.xls
+testArg2: F3
+Touched time: 1642890212925
+Test start time: 1642890202634
+Test end time: 1642890261760
+Total test time (ms): 59126
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 34740
+Number of cells updated: 0
+Update cell start time: 1642890212914
+Update cell end time: 1642890212925
+Total time to update cells (ms): 11
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 9
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top3
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top3.xls
+testArg2: J5
+Touched time: 1642893358395
+Test start time: 1642893340740
+Test end time: 1642893412853
+Total test time (ms): 72113
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 36126
+Number of cells updated: 0
+Update cell start time: 1642893355199
+Update cell end time: 1642893358395
+Total time to update cells (ms): 3196
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 3187
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top3
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top3.xls
+testArg2: J5
+Touched time: 1642893495877
+Test start time: 1642893483431
+Test end time: 1642893495890
+Total test time (ms): 12459
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 36126
+Number of cells updated: 0
+Update cell start time: 1642893493708
+Update cell end time: 1642893495877
+Total time to update cells (ms): 2169
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2160
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top4
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top4.xls
+testArg2: J5
+Touched time: 1642893568846
+Test start time: 1642893556365
+Test end time: 1642893568858
+Total test time (ms): 12493
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 36126
+Number of cells updated: 0
+Update cell start time: 1642893566091
+Update cell end time: 1642893568846
+Total time to update cells (ms): 2755
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2746
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top5.xls
+testArg2: J5
+Touched time: 1642893598922
+Test start time: 1642893587688
+Test end time: 1642893598934
+Total test time (ms): 11246
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 33491
+Number of cells updated: 0
+Update cell start time: 1642893597183
+Update cell end time: 1642893598922
+Total time to update cells (ms): 1739
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1733
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/long_top1.xlsx
+testArg2: B2
+Touched time: 1642893858139
+Test start time: 1642893845663
+Test end time: 1642893896407
+Total test time (ms): 50744
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 200000
+Number of cells updated: 0
+Update cell start time: 1642893858135
+Update cell end time: 1642893858139
+Total time to update cells (ms): 4
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/long_top2.xlsx
+testArg2: A8
+Touched time: 1642893968930
+Test start time: 1642893964390
+Test end time: 1642893984692
+Total test time (ms): 20302
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642893968928
+Update cell end time: 1642893968930
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top3
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/long_top3.xlsx
+testArg2: A2
+Touched time: 1642894052379
+Test start time: 1642894048647
+Test end time: 1642894062784
+Total test time (ms): 14137
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 124535
+Number of cells updated: 0
+Update cell start time: 1642894052375
+Update cell end time: 1642894052379
+Total time to update cells (ms): 4
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top1.xlsx
+testArg2: S82
+Touched time: 1642894442668
+Test start time: 1642894270189
+Test end time: 1642894472813
+Total test time (ms): 202624
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 304083
+Number of cells updated: 0
+Update cell start time: 1642894440111
+Update cell end time: 1642894442668
+Total time to update cells (ms): 2557
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2551
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top2.xlsx
+testArg2: C6
+Touched time: 1642895296871
+Test start time: 1642895284690
+Test end time: 1642895311153
+Total test time (ms): 26463
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 189107
+Number of cells updated: 0
+Update cell start time: 1642895296865
+Update cell end time: 1642895296871
+Total time to update cells (ms): 6
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 4
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top3
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top3.xlsx
+testArg2: R5820
+Touched time: 1642895762250
+Test start time: 1642895744910
+Test end time: 1642895780697
+Total test time (ms): 35787
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 156396
+Number of cells updated: 0
+Update cell start time: 1642895762235
+Update cell end time: 1642895762250
+Total time to update cells (ms): 15
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 13
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top4
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top4.xlsx
+testArg2: D21917
+Touched time: 1642896127573
+Test start time: 1642896117773
+Test end time: 1642896127589
+Total test time (ms): 9816
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 140157
+Number of cells updated: 0
+Update cell start time: 1642896127567
+Update cell end time: 1642896127573
+Total time to update cells (ms): 6
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 4
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top5.xlsx
+testArg2: A8
+Touched time: 1642896175483
+Test start time: 1642896172573
+Test end time: 1642896175501
+Total test time (ms): 2928
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642896175481
+Update cell end time: 1642896175483
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top5.xlsx
+testArg2: A8
+Touched time: 1642988949286
+Test start time: 1642988945688
+Test end time: 1642988949313
+Total test time (ms): 3625
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642988949283
+Update cell end time: 1642988949286
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top5.xlsx
+testArg2: A8
+Touched time: 1642989371907
+Test start time: 1642989368616
+Test end time: 1642989371936
+Total test time (ms): 3320
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642989371905
+Update cell end time: 1642989371907
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top5.xlsx
+testArg2: A8
+Touched time: 1642989427636
+Test start time: 1642989424119
+Test end time: 1642989427667
+Total test time (ms): 3548
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642989427634
+Update cell end time: 1642989427636
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top5.xlsx
+testArg2: A8
+Touched time: 1642989718342
+Test start time: 1642989714598
+Test end time: 1642989737839
+Total test time (ms): 23241
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642989718340
+Update cell end time: 1642989718342
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top5.xlsx
+testArg2: A8
+Touched time: 1642989768304
+Test start time: 1642989764416
+Test end time: 1642989774423
+Total test time (ms): 10007
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642989768302
+Update cell end time: 1642989768304
+Total time to update cells (ms): 2
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top5.xlsx
+testArg2: A8
+Touched time: 1642990645182
+Test start time: 1642990507451
+Test end time: 1642990766020
+Total test time (ms): 258569
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642990643523
+Update cell end time: 1642990645182
+Total time to update cells (ms): 1659
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1522
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/max_top5.xlsx
+testArg2: A8
+Touched time: 1642991087060
+Test start time: 1642991081806
+Test end time: 1642991087081
+Total test time (ms): 5275
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 131533
+Number of cells updated: 0
+Update cell start time: 1642991085533
+Update cell end time: 1642991087060
+Total time to update cells (ms): 1527
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1378
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1643160392721
+Test start time: 1643160383443
+Test end time: 1643160393523
+Total test time (ms): 10080
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20847
+Number of cells updated: 0
+Update cell start time: 1643160392718
+Update cell end time: 1643160392721
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1643160482964
+Test start time: 1643160459101
+Test end time: 1643160483731
+Total test time (ms): 24630
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20847
+Number of cells updated: 0
+Update cell start time: 1643160477064
+Update cell end time: 1643160482964
+Total time to update cells (ms): 5900
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1643160607446
+Test start time: 1643160584881
+Test end time: 1643160608199
+Total test time (ms): 23318
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20847
+Number of cells updated: 0
+Update cell start time: 1643160607443
+Update cell end time: 1643160607446
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: F2
+Touched time: 1643160712866
+Test start time: 1643160621556
+Test end time: 1643160713605
+Total test time (ms): 92049
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20847
+Number of cells updated: 0
+Update cell start time: 1643160712863
+Update cell end time: 1643160712866
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: J2
+Touched time: 1643161421327
+Test start time: 1643161406788
+Test end time: 1643161422071
+Total test time (ms): 15283
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643161417933
+Update cell end time: 1643161421327
+Total time to update cells (ms): 3394
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: J2
+Touched time: 1643161515422
+Test start time: 1643161507570
+Test end time: 1643161516111
+Total test time (ms): 8541
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643161515377
+Update cell end time: 1643161515422
+Total time to update cells (ms): 45
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: J2
+Touched time: 1643161555194
+Test start time: 1643161551377
+Test end time: 1643161555890
+Total test time (ms): 4513
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643161555149
+Update cell end time: 1643161555194
+Total time to update cells (ms): 45
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: J2
+Touched time: 1643161615140
+Test start time: 1643161611210
+Test end time: 1643161615823
+Total test time (ms): 4613
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643161615074
+Update cell end time: 1643161615140
+Total time to update cells (ms): 66
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: J2
+Touched time: 1643161958646
+Test start time: 1643161950832
+Test end time: 1643161959335
+Total test time (ms): 8503
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643161958600
+Update cell end time: 1643161958646
+Total time to update cells (ms): 46
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: J2
+Touched time: 1643162077308
+Test start time: 1643162004889
+Test end time: 1643162078045
+Total test time (ms): 73156
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643162012466
+Update cell end time: 1643162077307
+Total time to update cells (ms): 64841
+Total time after the update (ms): 1
+Total time of getting dependents (ms): 3
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: J2
+Touched time: 1643162098999
+Test start time: 1643162088246
+Test end time: 1643162099741
+Total test time (ms): 11495
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643162098947
+Update cell end time: 1643162098999
+Total time to update cells (ms): 52
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: long_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/long_top1.xls
+testArg2: J2
+Touched time: 1643162425332
+Test start time: 1643162136948
+Test end time: 1643162426402
+Total test time (ms): 289454
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643162420934
+Update cell end time: 1643162425332
+Total time to update cells (ms): 4398
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top1.xls
+testArg2: Z1
+Touched time: 1643162888311
+Test start time: 1643162859522
+Test end time: 1643162889001
+Total test time (ms): 29479
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 175497
+Number of cells updated: 0
+Update cell start time: 1643162888143
+Update cell end time: 1643162888311
+Total time to update cells (ms): 168
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 8
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: max_top2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/max_top2.xls
+testArg2: K9
+Touched time: 1643162950969
+Test start time: 1643162944717
+Test end time: 1643162951664
+Total test time (ms): 6947
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 34662
+Number of cells updated: 0
+Update cell start time: 1643162950882
+Update cell end time: 1643162950969
+Total time to update cells (ms): 87
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 6
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_max2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_max2.xls
+testArg2: K9
+Touched time: 1643171026583
+Test start time: 1643171020430
+Test end time: 1643171026590
+Total test time (ms): 6160
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 34662
+Number of cells updated: 0
+Update cell start time: 1643171026491
+Update cell end time: 1643171026583
+Total time to update cells (ms): 92
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 8
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: github_max1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/github_max1.xlsx
+testArg2: B7
+Touched time: 1643171409177
+Test start time: 1643171305047
+Test end time: 1643171409185
+Total test time (ms): 104138
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 284621
+Number of cells updated: 0
+Update cell start time: 1643171408772
+Update cell end time: 1643171409177
+Total time to update cells (ms): 405
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 154
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: github_max1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/github_max1.xlsx
+testArg2: B7
+Touched time: 1643171573410
+Test start time: 1643171509848
+Test end time: 1643171573421
+Total test time (ms): 63573
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 284621
+Number of cells updated: 0
+Update cell start time: 1643171557880
+Update cell end time: 1643171573410
+Total time to update cells (ms): 15530
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 15242
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: github_max1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/github_max1.xlsx
+testArg2: B7
+Touched time: 1643171777700
+Test start time: 1643171680613
+Test end time: 1643171777755
+Total test time (ms): 97142
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 284621
+Number of cells updated: 0
+Update cell start time: 1643171777410
+Update cell end time: 1643171777700
+Total time to update cells (ms): 290
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 77
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_long1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_long1.xls
+testArg2: J2
+Touched time: 1643336883868
+Test start time: 1643336874876
+Test end time: 1643336883877
+Total test time (ms): 9001
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 20844
+Number of cells updated: 0
+Update cell start time: 1643336883808
+Update cell end time: 1643336883868
+Total time to update cells (ms): 60
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_max1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_max1.xls
+testArg2: Z1
+Touched time: 1643343459861
+Test start time: 1643343430381
+Test end time: 1643343459870
+Total test time (ms): 29489
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 175497
+Number of cells updated: 0
+Update cell start time: 1643343459448
+Update cell end time: 1643343459861
+Total time to update cells (ms): 413
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 186
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_max1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_max1.xls
+testArg2: Z1
+Touched time: 1643343559445
+Test start time: 1643343527074
+Test end time: 1643343559459
+Total test time (ms): 32385
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 175497
+Number of cells updated: 0
+Update cell start time: 1643343559216
+Update cell end time: 1643343559445
+Total time to update cells (ms): 229
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 15
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_max1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_max1.xls
+testArg2: Z1
+Touched time: 1643348522415
+Test start time: 1643348493514
+Test end time: 1643348522427
+Total test time (ms): 28913
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 175497
+Number of cells updated: 0
+Update cell start time: 1643348522234
+Update cell end time: 1643348522415
+Total time to update cells (ms): 181
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 36
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_max1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_max1.xls
+testArg2: Z1
+Touched time: 1643348598712
+Test start time: 1643348570625
+Test end time: 1643348598721
+Total test time (ms): 28096
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 175497
+Number of cells updated: 0
+Update cell start time: 1643348598364
+Update cell end time: 1643348598712
+Total time to update cells (ms): 348
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 187
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_long2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_long2.xls
+testArg2: A6
+Touched time: 1643349165472
+Test start time: 1643349069304
+Test end time: 1643349165485
+Total test time (ms): 96181
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 1
+Number of cells updated: 0
+Update cell start time: 1643349165469
+Update cell end time: 1643349165472
+Total time to update cells (ms): 3
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_long2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_long2.xls
+testArg2: A6
+Touched time: 1643349604491
+Test start time: 1643349597017
+Test end time: 1643349604508
+Total test time (ms): 7491
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 4291
+Number of cells updated: 0
+Update cell start time: 1643349601208
+Update cell end time: 1643349604491
+Total time to update cells (ms): 3283
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 3272
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_long2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: Comp
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_long2.xls
+testArg2: A6
+Touched time: 1643349829590
+Test start time: 1643349752175
+Test end time: 1643349829604
+Total test time (ms): 77429
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 4291
+Number of cells updated: 0
+Update cell start time: 1643349827239
+Update cell end time: 1643349829590
+Total time to update cells (ms): 2351
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 2342
+Area under curve: 0.0
+Curve: 
+Report:
+
+TestCase: enron_long2
+Correct: false
+isSyncRunner: false
+dependencyTableClass: ASync
+cacheSize: 100000000
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_long2.xls
+testArg2: A6
+Touched time: 1643350344364
+Test start time: 1643350107272
+Test end time: 1643350344415
+Total test time (ms): 237143
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 4291
+Number of cells updated: 0
+Update cell start time: 1643350344363
+Update cell end time: 1643350344364
+Total time to update cells (ms): 1
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1
+Area under curve: 0.0
+Curve: 
