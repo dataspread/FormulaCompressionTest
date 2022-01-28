@@ -1,0 +1,27 @@
+Report:
+
+TestCase: enron_max5
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_max5.xls
+testArg2: J5
+Touched time: 1643192250610
+Test start time: 1643192057756
+Test end time: 1643192250798
+Total test time (ms): 193042
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 31847
+Number of cells updated: 0
+Update cell start time: 1643192245600
+Update cell end time: 1643192250610
+Total time to update cells (ms): 5010
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 4978
+Area under curve: 0.0
+Curve: 
