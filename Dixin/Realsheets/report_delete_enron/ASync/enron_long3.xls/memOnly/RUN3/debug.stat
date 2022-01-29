@@ -6,21 +6,21 @@ isSyncRunner: false
 dependencyTableClass: ASync
 cacheSize: 0
 testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_long3.xls
-testArg2: I7
-Touched time: 1643438203691
-Test start time: 1643437912162
-Test end time: 1643438204370
-Total test time (ms): 292208
+testArg2: D11
+Touched time: 1643494510562
+Test start time: 1643494161449
+Test end time: 1643494511229
+Total test time (ms): 349780
 Initial number of dependents: 0
 Final number of dependents: 0
 Compression start time: 0
 Compression end time: 0
 Total compression time (ms): 0
-Number of cells to update: 4382
+Number of cells to update: 2190
 Number of cells updated: 0
-Update cell start time: 1643438203690
-Update cell end time: 1643438203691
-Total time to update cells (ms): 1
+Update cell start time: 1643494446571
+Update cell end time: 1643494510562
+Total time to update cells (ms): 63991
 Total time after the update (ms): 0
 Total time of getting dependents (ms): 1
 Area under curve: 0.0
