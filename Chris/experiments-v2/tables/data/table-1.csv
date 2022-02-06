@@ -1,0 +1,7 @@
+Dataset,Type,Vertices,Edges
+Enron,Original,27.1M,36.1M
+Enron,TACO-InRow,12.1M,16.7M
+Enron,TACO-Full,3.0M,2.4M
+Github,Original,176.3M,234.6M
+Github,TACO-InRow,58.2M,81.2M
+Github,TACO-Full,4.7M,3.8M
