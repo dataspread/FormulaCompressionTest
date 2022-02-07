@@ -6,22 +6,22 @@ isSyncRunner: false
 dependencyTableClass: Comp
 cacheSize: 0
 testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/enron/enron_max4.xls
-testArg2: J5
-Touched time: 1643190967016
-Test start time: 1643190956036
-Test end time: 1643190967129
-Total test time (ms): 11093
+testArg2: D4
+Touched time: 1644268948922
+Test start time: 1644268935016
+Test end time: 1644268948947
+Total test time (ms): 13931
 Initial number of dependents: 0
 Final number of dependents: 0
 Compression start time: 0
 Compression end time: 0
 Total compression time (ms): 0
-Number of cells to update: 33491
+Number of cells to update: 29017
 Number of cells updated: 0
-Update cell start time: 1643190964503
-Update cell end time: 1643190967016
-Total time to update cells (ms): 2513
+Update cell start time: 1644268946866
+Update cell end time: 1644268948922
+Total time to update cells (ms): 2056
 Total time after the update (ms): 0
-Total time of getting dependents (ms): 2504
+Total time of getting dependents (ms): 2052
 Area under curve: 0.0
 Curve: 

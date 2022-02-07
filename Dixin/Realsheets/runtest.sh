@@ -21,11 +21,13 @@ fi
 REPORT_HOME=$3
 
 spreadsheetString="customsheet"
-declare -a depTableClassString=("ASync")
+#declare -a depTableClassString=("ASync")
 #declare -a depTableClassString=("Comp" "PGImpl")
+declare -a depTableClassString=("PGImpl")
 #declare -a runs=("1" "2" "3")
 declare -a runs=("1")
-declare -a modes=("memOnly" "DB")
+#declare -a modes=("memOnly" "DB")
+declare -a modes=("DB")
 
 while IFS=, read -r sheetname cell;
 do
@@ -44,7 +46,7 @@ do
 					memOnly="true"
 				fi
 
-				timeout 60m $JAVA_CMD $JAVA_CONFIG \
+				timeout 30m $JAVA_CMD $JAVA_CONFIG \
 					-DdepTableClassString=${depTableClassString[$i]} \
 					-DspreadsheetString=${spreadsheetString} \
 					-DtestArg.0=$2/${sheetname} \
