@@ -1218,3 +1218,133 @@ Total time of adding the batch (ms): 95157
 Total time of refreshing the cache (ms): 141928
 Area under curve: 0.0
 
+Total test time (ms): 8237
+Number of cells to update: 33491
+Number of cells updated: 0
+Total time to update cells (ms): 1196
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1183
+Total time of adding the batch (ms): 5642
+Total time of refreshing the cache (ms): 14
+Area under curve: 0.0
+
+Total test time (ms): 511514
+Number of cells to update: 33491
+Number of cells updated: 0
+Total time to update cells (ms): 1188
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1181
+Total time of adding the batch (ms): 5850
+Total time of refreshing the cache (ms): 15
+Area under curve: 0.0
+
+Total test time (ms): 135918
+Number of cells to update: 33491
+Number of cells updated: 0
+Total time to update cells (ms): 1216
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1209
+Total time of adding the batch (ms): 5582
+Total time of refreshing the cache (ms): 14
+Area under curve: 0.0
+
+Total test time (ms): 22253
+Number of cells to update: 33491
+Number of cells updated: 0
+Total time to update cells (ms): 1289
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1282
+Total time of adding the batch (ms): 5677
+Total time of refreshing the cache (ms): 14
+Area under curve: 0.0
+
+Total test time (ms): 20022
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1127
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1120
+Total time of adding the batch (ms): 17467
+Total time of refreshing the cache (ms): 14
+Area under curve: 0.0
+
+Total test time (ms): 38285
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1235
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1223
+Total time of adding the batch (ms): 35684
+Total time of refreshing the cache (ms): 15
+Area under curve: 0.0
+
+Total test time (ms): 1221515
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1114
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1107
+Total time of adding the batch (ms): 1218745
+Total time of refreshing the cache (ms): 15
+Area under curve: 0.0
+
+Total test time (ms): 581632
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1148
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1141
+Total time of adding the batch (ms): 5905
+Total time of refreshing the cache (ms): 14
+Area under curve: 0.0
+
+Total test time (ms): 8234
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1126
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1119
+Total time of adding the batch (ms): 5683
+Total time of refreshing the cache (ms): 18
+Area under curve: 0.0
+
+Total test time (ms): 8451
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1163
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1157
+Total time of adding the batch (ms): 5564
+Total time of refreshing the cache (ms): 14
+Area under curve: 0.0
+
+Total test time (ms): 218684
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1247
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1240
+Total time of adding the batch (ms): 5990
+Total time of refreshing the cache (ms): 17
+Area under curve: 0.0
+
+Total test time (ms): 8362
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1043
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1036
+Total time of adding the batch (ms): 5888
+Total time of refreshing the cache (ms): 14
+Area under curve: 0.0
+
+Total test time (ms): 7830
+Number of cells to update: 32121
+Number of cells updated: 0
+Total time to update cells (ms): 1031
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 1023
+Total time of adding the batch (ms): 5558
+Total time of refreshing the cache (ms): 13
+Area under curve: 0.0
+
