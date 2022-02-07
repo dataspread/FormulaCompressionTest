@@ -1,0 +1,17 @@
+Filename,Original Edges,TACO Edges,TACO Breakdown,Updated Cell,Num of Deps,Longest chain
+enron_max1.xls,"876,020",734,"RR-Chain:1,RR:550,FF:183",Z1,"175,496",184
+enron_max2.xls,"124,629","1,574","RR:847,FF:452,NoComp:275",J5,"34,481",4
+enron_max3.xls,"124,629","1,574","RR:847,FF:452,NoComp:275",J5,"34,481",4
+enron_max4.xls,"114,101","1,534","RR:837,FF:422,NoComp:275",J5,"31,846",4
+enron_max5.xls,"114,101","1,534","RR:837,FF:422,NoComp:275",J5,"31,846",4
+enron_long1.xls,"312,642",35,"RR-Chain:3,RR:23,FF:6,NoComp:3",F2,"20,846","6,952"
+enron_long2.xls,"4,290",1,RR-Chain:1,A6,"4,290","4,290"
+enron_long3.xls,"17,525",12,"RR-Chain:1,RR:2,FF:4,NoComp:5",I7,"4,381","2,191"
+github_max1.xlsx,"2,353,646","14,204","RR:12711,FF:1135,RRGap:2,NoComp:356",S82,"304,082",22
+github_max2.xlsx,"441,242",14,"RR-Chain:1,RR:4,FF:6,NoComp:3",C6,"189,106",2
+github_max3.xlsx,"547,305",73,"RR:43,FF:10,RRGap:20",R5820,"156,385",3
+github_max4.xlsx,"350,400",8,"RR:7,FF:1",D21917,"140,156",4
+github_max5.xlsx,"569,712",12,"RR-Chain:3,RR:9",A8,"131,455","43,819"
+github_long1.xlsx,"400,006",4,"RR-Chain:2,FF:2",B2,"199,999","199,999"
+github_long2.xlsx,"131,532",1,RR-Chain:1,A8,"131,532","131,532"
+github_long3.xlsx,"124,534",1,RR-Chain:1,A2,"124,534","124,534"
