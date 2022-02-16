@@ -1,0 +1,5 @@
+Dataset,Type,Max,75th per.,Median,Mean
+Enron,TACO-InRow,"383,012",696,106,"2,618"
+Enron,TACO-Full,"875,286","1,680",258,"4,544"
+Github,TACO-InRow,"2,193,476","18,758","1,919","28,227"
+Github,TACO-Full,"3,141,054","26,627","4,579","42,460"

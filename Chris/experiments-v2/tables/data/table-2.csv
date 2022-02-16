@@ -1,0 +1,5 @@
+Dataset,Type,Min,25th per.,Median,Mean
+Enron,TACO-InRow,0.0010%,26.32%,61.55%,58.31%
+Enron,TACO-Full,0.0010%,6.85%,15.59%,22.78%
+Github,TACO-InRow,0.0004%,1.45%,33.59%,42.27%
+Github,TACO-Full,0.0002%,0.14%,2.25%,11.36%
