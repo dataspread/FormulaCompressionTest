@@ -1,0 +1,27 @@
+Report:
+
+TestCase: github_max1
+Correct: false
+isSyncRunner: false
+dependencyTableClass: PGImpl
+cacheSize: 0
+testArg1: /home/totemtang/dataspread/FormulaCompressionTest/Dixin/Realsheets/sheets_for_taco/github/github_max1.xlsx
+testArg2: S82
+Touched time: 1643194979947
+Test start time: 1643194931585
+Test end time: 1643194980146
+Total test time (ms): 48561
+Initial number of dependents: 0
+Final number of dependents: 0
+Compression start time: 0
+Compression end time: 0
+Total compression time (ms): 0
+Number of cells to update: 304083
+Number of cells updated: 0
+Update cell start time: 1643194966844
+Update cell end time: 1643194979947
+Total time to update cells (ms): 13103
+Total time after the update (ms): 0
+Total time of getting dependents (ms): 12876
+Area under curve: 0.0
+Curve: 
